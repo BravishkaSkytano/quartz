@@ -1,6 +1,20 @@
 ---
-title: Welcome to Quartz
+title: Home
+date: 2024-05-11
+id: 20240511163220
+tags:
+  - moc
+cssclasses:
+  - dashboard
+updated: 2024-05-14
+draft: false
 ---
+Salutations! Welcome to my digital garden!
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+What is that? Well, a digital garden is a curated set of notes, and it’s often shared online for learning and sharing purposes. My garden is mostly full of my [[10-19 School|school notes]] and whatever type of [[20-29 Prose|prose]], [[30-39 Worldbuilding|world]], or [[40-49 Characters|character]] I’m working on at the moment. So, yes, it’s always evolving and expanding because I’m tending to it every day.
+
+With that out of the way, just a fair warning, not everything in this garden will make sense to you. There are some sections that are… shall we say, catered to the tastes of a specific group of individuals. Nothing too crazy, of course, but don’t get upset if you wander onto a page chock-full of information that makes absolutely no sense to you. Remember, this is my garden, and it’s primarily for my pleasure, I’m just letting you view it because I like to share my world with curious people and I have this strong tendency to help others.
+
+Any-who, see ya later, alligator!
+
+(P.S. no, I’m not British or a crazy scientist, I’m just a writer who likes to have fun and make people smile. So, yeah, sometimes I talk and act silly just because 😁)

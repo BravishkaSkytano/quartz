@@ -1,0 +1,74 @@
+---
+obsidianUIMode: preview
+cssclasses:
+  - multi-column-list
+---
+%% Begin Waypoint %%
+- **[55.01 Genesis](./55.01%20Genesis/55.01%20Genesis.md)**
+- **[55.02 Exodus](./55.02%20Exodus/55.02%20Exodus.md)**
+- **[55.03 Leviticus](./55.03%20Leviticus/55.03%20Leviticus.md)**
+- **[55.04 Numbers](./55.04%20Numbers/55.04%20Numbers.md)**
+- **[55.05 Deuteronomy](./55.05%20Deuteronomy/55.05%20Deuteronomy.md)**
+- **[55.06 Joshua](./55.06%20Joshua/55.06%20Joshua.md)**
+- **[55.07 Judges](./55.07%20Judges/55.07%20Judges.md)**
+- **[55.08 Ruth](./55.08%20Ruth/55.08%20Ruth.md)**
+- **[55.09 1 Samuel](./55.09%201%20Samuel/55.09%201%20Samuel.md)**
+- **[55.10 2 Samuel](./55.10%202%20Samuel/55.10%202%20Samuel.md)**
+- **[55.11 1 Kings](./55.11%201%20Kings/55.11%201%20Kings.md)**
+- **[55.12 2 Kings](./55.12%202%20Kings/55.12%202%20Kings.md)**
+- **[55.13 1 Chronicles](./55.13%201%20Chronicles/55.13%201%20Chronicles.md)**
+- **[55.14 2 Chronicles](./55.14%202%20Chronicles/55.14%202%20Chronicles.md)**
+- **[55.15 Ezra](./55.15%20Ezra/55.15%20Ezra.md)**
+- **[55.16 Nehemiah](./55.16%20Nehemiah/55.16%20Nehemiah.md)**
+- **[55.17 Esther](./55.17%20Esther/55.17%20Esther.md)**
+- **[55.18 Job](./55.18%20Job/55.18%20Job.md)**
+- **[55.19 Psalm](./55.19%20Psalm/55.19%20Psalm.md)**
+- **[55.20 Proverbs](./55.20%20Proverbs/55.20%20Proverbs.md)**
+- **[55.21 Ecclesiastes](./55.21%20Ecclesiastes/55.21%20Ecclesiastes.md)**
+- **[55.22 Song of Solomon](./55.22%20Song%20of%20Solomon/55.22%20Song%20of%20Solomon.md)**
+- **[55.23 Isaiah](./55.23%20Isaiah/55.23%20Isaiah.md)**
+- **[55.24 Jeremiah](./55.24%20Jeremiah/55.24%20Jeremiah.md)**
+- **[55.25 Lamentations](./55.25%20Lamentations/55.25%20Lamentations.md)**
+- **[55.26 Ezekiel](./55.26%20Ezekiel/55.26%20Ezekiel.md)**
+- **[55.27 Daniel](./55.27%20Daniel/55.27%20Daniel.md)**
+- **[55.28 Hosea](./55.28%20Hosea/55.28%20Hosea.md)**
+- **[55.29 Joel](./55.29%20Joel/55.29%20Joel.md)**
+- **[55.30 Amos](./55.30%20Amos/55.30%20Amos.md)**
+- **[55.31 Obadiah](./55.31%20Obadiah/55.31%20Obadiah.md)**
+- **[55.32 Jonah](./55.32%20Jonah/55.32%20Jonah.md)**
+- **[55.33 Micah](./55.33%20Micah/55.33%20Micah.md)**
+- **[55.34 Nahum](./55.34%20Nahum/55.34%20Nahum.md)**
+- **[55.35 Habakkuk](./55.35%20Habakkuk/55.35%20Habakkuk.md)**
+- **[55.36 Zephaniah](./55.36%20Zephaniah/55.36%20Zephaniah.md)**
+- **[55.37 Haggai](./55.37%20Haggai/55.37%20Haggai.md)**
+- **[55.38 Zechariah](./55.38%20Zechariah/55.38%20Zechariah.md)**
+- **[55.39 Malachi](./55.39%20Malachi/55.39%20Malachi.md)**
+- **[55.40 Matthew](./55.40%20Matthew/55.40%20Matthew.md)**
+- **[55.41 Mark](./55.41%20Mark/55.41%20Mark.md)**
+- **[55.42 Luke](./55.42%20Luke/55.42%20Luke.md)**
+- **[55.43 John](./55.43%20John/55.43%20John.md)**
+- **[55.44 Acts](./55.44%20Acts/55.44%20Acts.md)**
+- **[55.45 Romans](./55.45%20Romans/55.45%20Romans.md)**
+- **[55.46 1 Corinthians](./55.46%201%20Corinthians/55.46%201%20Corinthians.md)**
+- **[55.47 2 Corinthians](./55.47%202%20Corinthians/55.47%202%20Corinthians.md)**
+- **[55.48 Galatians](./55.48%20Galatians/55.48%20Galatians.md)**
+- **[55.49 Ephesians](./55.49%20Ephesians/55.49%20Ephesians.md)**
+- **[55.50 Philippians](./55.50%20Philippians/55.50%20Philippians.md)**
+- **[55.51 Colossians](./55.51%20Colossians/55.51%20Colossians.md)**
+- **[55.52 1 Thessalonians](./55.52%201%20Thessalonians/55.52%201%20Thessalonians.md)**
+- **[55.53 2 Thessalonians](./55.53%202%20Thessalonians/55.53%202%20Thessalonians.md)**
+- **[55.54 1 Timothy](./55.54%201%20Timothy/55.54%201%20Timothy.md)**
+- **[55.55 2 Timothy](./55.55%202%20Timothy/55.55%202%20Timothy.md)**
+- **[55.56 Titus](./55.56%20Titus/55.56%20Titus.md)**
+- **[55.57 Philemon](./55.57%20Philemon/55.57%20Philemon.md)**
+- **[55.58 Hebrews](./55.58%20Hebrews/55.58%20Hebrews.md)**
+- **[55.59 James](./55.59%20James/55.59%20James.md)**
+- **[55.60 1 Peter](./55.60%201%20Peter/55.60%201%20Peter.md)**
+- **[55.61 2 Peter](./55.61%202%20Peter/55.61%202%20Peter.md)**
+- **[55.62 1 John](./55.62%201%20John/55.62%201%20John.md)**
+- **[55.63 2 John](./55.63%202%20John/55.63%202%20John.md)**
+- **[55.64 3 John](./55.64%203%20John/55.64%203%20John.md)**
+- **[55.65 Jude](./55.65%20Jude/55.65%20Jude.md)**
+- **[55.66 Revelation](./55.66%20Revelation/55.66%20Revelation.md)**
+
+%% End Waypoint %%
