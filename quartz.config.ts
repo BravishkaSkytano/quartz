@@ -14,15 +14,20 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "ungraphophobic.netlify.app",
-    ignorePatterns: ["**/private", "00-09 System", ".obsidian"],
+    ignorePatterns: ["**/private", "00-09 System", "50-59 Sources/55 Bible", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
+        /*
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
+        */
+        header: "Cinzel Decorative",
+        body: "Lora",
+        code: "Cutive Mono",
       },
       colors: {
         lightMode: {
