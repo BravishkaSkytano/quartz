@@ -13,7 +13,7 @@ tags:
 > > [[Home]] 💠 [[My Digital Garden]]
 > 
 > > [!map] Siblings
-> > [[00-09 System]] 💠 [[10-19 School]] 💠 [[30-39 Worldbuilding]] 💠 [[40-49 Characters]] 💠 [[50-59 Sources]] 💠 [[60-69]] 💠 [[70-79]] 💠 [[80-89]] 💠 [[90-99]]
+> > [[00-09 System]] 💠 [[10-19 School]] 💠 [[30-39 Worldbuilding]] 💠 [[40-49 Characters]] 💠 [[50-59 Sources/index]] 💠 [[60-69]] 💠 [[70-79]] 💠 [[80-89]] 💠 [[90-99]]
 
 **Definition:** a form of written language that follows the natural flow of everyday speech.
 

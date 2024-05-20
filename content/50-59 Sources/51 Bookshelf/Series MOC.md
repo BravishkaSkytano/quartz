@@ -2,14 +2,18 @@
 title: Series MOC
 id: 202405161117
 date: 2024-05-16
-modified: 2024-05-16
+modified: 2024-05-19
 tags:
   - moc
   - source/books
 share: false
 ---
-[[51 Bookshelf]]
+[[50-59 Sources/51 Bookshelf/index|Bookshelf]]
 
+- [[Understanding the Faith]]
+	- [[Understanding the Faith - Jeff Myers]]
+
+%%
 ```dataviewjs
 let groups = dv.pages('"50-59 Sources/51 Bookshelf/books"')
 	.filter(b => { // Only get books belonging to series
@@ -43,3 +47,4 @@ for(let group of groups) {
     dv.el('div', rows);
 }
 ```
+%%

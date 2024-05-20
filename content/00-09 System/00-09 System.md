@@ -12,7 +12,7 @@ tags:
 > - [[20-29 Prose]]
 > - [[30-39 Worldbuilding]]
 > - [[40-49 Characters]]
-> - [[50-59 Sources]]
+> - [[50-59 Sources/index]]
 > - [[60-69]]
 > - [[70-79]]
 > - [[80-89]]

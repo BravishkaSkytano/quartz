@@ -1,21 +1,31 @@
 ---
-title: Untitled
+title: Read in 2023
 id: 202405161050
 date: 2024-05-16
-modified: 2024-05-16
-tags: 
-share: false
+modified: 2024-05-19
+tags:
+  - source/books
+draft: false
 ---
-[[51 Bookshelf]]
+[[50-59 Sources/51 Bookshelf/index|Bookshelf]]
 
-These are the books I’ve read in 2023. The best ones have been:
+These are the books I’ve read in 2023.
+
+## The Best
+
+- [[Understanding the Faith - Jeff Myers]]
+%%
 ```dataview
 LIST WITHOUT ID
 title + " (" + author + ")"
 FROM "50-59 Sources/51 Bookshelf/books"
 WHERE rating=5 AND contains(string(readdates.finished), "2023")
 ```
+%%
 
+## The Rest
+
+%%
 ```dataviewjs
 function renderReadDates(readdates) {
 	let str = '';
@@ -76,3 +86,4 @@ dv.table(
 	])
 );
 ```
+%%
