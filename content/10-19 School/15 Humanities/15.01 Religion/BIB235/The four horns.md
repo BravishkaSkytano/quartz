@@ -1,7 +1,7 @@
 ---
-created: 2023-10-03
-dg-publish: true
-updated: 2024-02-16
+date: 2023-10-03
+draft: true
+modified: 2024-02-16
 ---
 
 ![[Daniel 8#8]]

@@ -1,8 +1,8 @@
 ---
-created: 2024-03-18
-dg-publish: false
+date: 2024-03-18
+draft: false
 tags: 
-updated: 2024-03-19
+modified: 2024-03-19
 ---
 > [!quote] [[Galatians 3#3|Galatians 3:3]]
 > <sup>**3** </sup>Are you so foolish? After starting in the Spirit, are you now finishing in the flesh? 

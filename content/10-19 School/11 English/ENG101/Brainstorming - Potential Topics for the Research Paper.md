@@ -1,10 +1,9 @@
 ---
-created: 2023-10-29
-dg-publish: false
+date: 2023-10-29
+draft: false
 tags:
   - update
-modified: 2023-11-25
-updated: 2024-02-16
+modified: 2024-02-16
 ---
 
 ## Transgenderism

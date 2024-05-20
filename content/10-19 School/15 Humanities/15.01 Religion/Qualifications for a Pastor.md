@@ -1,9 +1,9 @@
 ---
-created: 2024-03-06
-dg-publish: false
+date: 2024-03-06
+draft: false
 tags:
   - update
-updated: 2024-03-06T13:53:48-05:00
+modified: 2024-03-06T13:53:48-05:00
 ---
 [[1 Timothy 3]]
 

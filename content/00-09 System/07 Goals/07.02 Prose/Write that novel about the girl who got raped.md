@@ -7,7 +7,7 @@ deadline:
 banner: "![[afif-ramdhasuma-RjqCk9MqhNg-unsplash.jpg]]"
 banner_y: 0.5
 completed: 
-updated: 2024-02-19
+modified: 2024-02-19
 ---
 
 ```meta-bind

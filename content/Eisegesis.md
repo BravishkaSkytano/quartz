@@ -1,8 +1,8 @@
 ---
-created: 2023-10-03
-dg-publish: true
+date: 2023-10-03
+draft: true
 tags: 
-updated: 2024-02-16
+modified: 2024-02-16
 ---
 From Ancient Greek εἰς (eis, “into”) and English [[Exegesis]]. Historically unrelated to the Ancient Greek εἰσήγησις (eisḗgēsis, “proposing, advising”).
 

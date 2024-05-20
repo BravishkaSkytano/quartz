@@ -4,7 +4,7 @@ tags:
   - SummitU
   - apologetics
 up: "[[REL1275 - Survey of Christian Apologetics]]"
-updated: 2024-01-22
+modified: 2024-01-22
 ---
 > A committed Muslim for twenty-seven years, Abdul Murray talks about the underlying reasons why people aren't open to honest conversations, focusing on emotional and intellectual barriers. He addresses how to deal with these barriers from personal experience, powerful books, and the example of Jesus.
  

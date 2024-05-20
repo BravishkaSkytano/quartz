@@ -1,8 +1,8 @@
 ---
-created: 2024-03-04
-dg-publish: true
+date: 2024-03-04
+draft: true
 tags: 
-updated: 2024-03-04T19:19:16-05:00
+modified: 2024-03-04T19:19:16-05:00
 aliases:
   - predestined
   - foreknew

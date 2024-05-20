@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 un-Graphophobic",
+    pageTitle: "un-Graphophobic",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

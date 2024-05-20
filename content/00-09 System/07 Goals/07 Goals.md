@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses:
   - dashboard
-updated: 2024-02-19
+modified: 2024-02-19
 ---
 %% Begin Waypoint %%
 - **07.01 School**

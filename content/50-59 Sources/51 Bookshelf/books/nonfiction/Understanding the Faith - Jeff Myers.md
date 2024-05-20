@@ -2,7 +2,7 @@
 id: 202405161025
 date: 2024-05-16
 modified: 2024-05-16
-share: true
+draft: true
 tags:
   - type/book
 title: Understanding the Faith

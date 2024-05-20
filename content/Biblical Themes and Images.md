@@ -1,5 +1,5 @@
 ---
-updated: 2024-01-23
+modified: 2024-01-23
 ---
 This is a collection to track occurrences of Biblical themes and images.
 

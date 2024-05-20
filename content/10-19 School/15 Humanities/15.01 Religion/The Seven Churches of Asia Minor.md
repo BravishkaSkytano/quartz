@@ -1,5 +1,5 @@
 ---
-updated: 2024-03-06T10:46:08-05:00
+modified: 2024-03-06T10:46:08-05:00
 ---
 
 In [[Revelation 2]][[Revelation 3|-3]], there are seven letters written to seven churches in [[Asia Minor]]—[[Ephesus]], [[Smyrna]], [[Pergamum]], [[Thyatira]], [[Sardis]], [[Philadelphia]], and [[Laodicea]]. These churches were located along a popular circular trade route. The letters were written to praise and condemn the recipients for their faithfulness and their shortcomings.

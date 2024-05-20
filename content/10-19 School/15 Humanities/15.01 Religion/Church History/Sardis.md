@@ -1,6 +1,6 @@
 ---
-created: 2023-10-20
-dg-publish: true
+date: 2023-10-20
+draft: true
 aliases:
   - the church that is spiritually dead
   - The Dead Church

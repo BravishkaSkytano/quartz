@@ -1,7 +1,7 @@
 ---
-created: 2023-10-03
-dg-publish: true
-updated: 2024-02-14
+date: 2023-10-03
+draft: true
+modified: 2024-02-14
 ---
 
 > **Hermeneutics** () is the theory and methodology of interpretation, especially the interpretation of biblical texts, wisdom literature, as well as philosophical texts. As necessary, hermeneutics may include the art of understanding and communication.Modern hermeneutics includes both verbal and non-verbal communication as well as semiotics, presuppositions, and pre-understandings. Hermeneutics has been broadly applied in the humanities, especially in law, history and theology.

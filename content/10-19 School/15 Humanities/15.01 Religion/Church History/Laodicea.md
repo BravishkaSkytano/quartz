@@ -1,10 +1,10 @@
 ---
-created: 2023-10-21
-dg-publish: true
+date: 2023-10-21
+draft: true
 aliases:
   - the church that has lukewarm faith
   - The Lukewarm Church
-updated: 2024-03-06T10:39:34-05:00
+modified: 2024-03-06T10:39:34-05:00
 ---
 > [!quote] [[Revelation 3#14|Revelation 3:14-]][[Revelation 3#22|22]]
 > <sup>**14** </sup>To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true Witness, the Originator of God’s creation. <sup>**15** </sup>I know your deeds; you are neither cold nor hot. How I wish you were one or the other! <sup>**16** </sup>So because you are lukewarm—neither hot nor cold—I am about to vomit you out of My mouth! <sup>**17** </sup>You say, ‘I am rich; I have grown wealthy and need nothing.’ But you do not realize that you are wretched, pitiful, poor, blind, and naked. <sup>**18** </sup>I counsel you to buy from Me gold refined by fire so that you may become rich, white garments so that you may be clothed and your shameful nakedness not exposed, and salve to anoint your eyes so that you may see. <sup>**19** </sup>Those I love, I rebuke and discipline. Therefore be earnest and repent. <sup>**20** </sup>Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me. <sup>**21** </sup>To the one who overcomes, I will grant the right to sit with Me on My throne, just as I overcame and sat down with My Father on His throne. <sup>**22** </sup>He who has an ear, let him hear what the Spirit says to the churches.” [[Revelation 3#15|]][[Revelation 3#16|]][[Revelation 3#17|]][[Revelation 3#18|]][[Revelation 3#19|]][[Revelation 3#20|]][[Revelation 3#21|]]

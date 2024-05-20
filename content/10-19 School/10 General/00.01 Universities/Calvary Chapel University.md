@@ -1,7 +1,7 @@
 ---
 start: 2023-08-22
 end: 2030-08-22
-updated: 2024-02-14
+modified: 2024-02-14
 aliases:
   - CCU
   - Calvary Chapel University

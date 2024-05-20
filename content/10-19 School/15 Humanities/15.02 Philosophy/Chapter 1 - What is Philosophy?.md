@@ -4,7 +4,7 @@ date: 2024-05-06
 id: 20240506112020
 tags:
   - philosophy
-updated: 2024-05-14
+modified: 2024-05-14
 ---
 
 [[20240511170611|Definition of Philosophy]]

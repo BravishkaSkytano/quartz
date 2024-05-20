@@ -61,4 +61,4 @@ date: 2023-04-03T18:26:45-04:00
 * loner, though doesn’t mind occassional company
 
 ***
-[[Chapter 1]]
+[[1. What is Philosophy?]]

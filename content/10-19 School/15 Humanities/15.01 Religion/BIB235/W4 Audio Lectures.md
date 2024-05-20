@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-28T15:57:02-05:00
+modified: 2024-02-28T15:57:02-05:00
 ---
 ## [[Daniel 10#1|Daniel 10:1]][[Daniel 10#2|]][[Daniel 10#3|]][[Daniel 10#4|]][[Daniel 10#5|]][[Daniel 10#6|]][[Daniel 10#7|]][[Daniel 10#8|]][[Daniel 10#9|-9]]
 - Cyrus the Persian and Darius the Mede are different

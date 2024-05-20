@@ -2,14 +2,16 @@
 title: 51 Bookshelf
 id: 202405161031
 date: 2024-05-16
-modified: 2024-05-19
+modified: 2024-05-20
 tags:
   - moc
   - source/books
-share: true
+draft: true
 ---
 
 ## Currently Reading
+
+- [[Introduction to Philosophy by Norman L Geisler and Paul D Feinberg]]
 
 %%
 ```dataview
@@ -22,8 +24,6 @@ WHERE shelf="reading"
 SORT title ASC
 ```
 %%
-
-- [[Introduction to Philosophy - Norman L Geisler, Paul D Feinberg]]
 
 ## Stopped Reading
 

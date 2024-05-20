@@ -5,7 +5,7 @@ Target: 100
 start: 
 deadline: 
 completed: 
-updated: 2024-02-19
+modified: 2024-02-19
 banner: "![[afif-ramdhasuma-RjqCk9MqhNg-unsplash.jpg]]"
 ---
 

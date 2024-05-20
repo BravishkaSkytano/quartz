@@ -1,6 +1,6 @@
 ---
-created: 2023-11-27
-dg-publish: true
+date: 2023-11-27
+draft: true
 modified: 2023-11-28
 title: Fear
 ---

@@ -2,11 +2,11 @@
 aliases:
   - the church that abandoned its love and passion for Christ
   - The Passionless Church
-created: 2023-10-19
-dg-publish: true
+date: 2023-10-19
+draft: true
 tags:
   - update
-updated: 2024-02-28T15:17:22-05:00
+modified: 2024-02-28T15:17:22-05:00
 ---
 
 Ephesus was a church founded by Apollos and empowered by Paul during his third missionary journey. Located in a harbor along [[the Aegean Sea]], it was more culturally favored than [[Smyrna]] and more politically powerful than [[Pergamum]]. It became the most prominent church in [[Asia Minor]] as well as a commercial and cultural center. [[The Temple of Artemis]], one of [[the seven wonders of the world]], was also located here.

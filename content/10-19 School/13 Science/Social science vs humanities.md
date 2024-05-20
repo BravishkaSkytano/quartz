@@ -1,8 +1,8 @@
 ---
-created: 2024-02-28
-dg-publish: true
+date: 2024-02-28
+draft: true
 tags: 
-updated: 2024-03-06T13:56:09-05:00
+modified: 2024-03-06T13:56:09-05:00
 ---
 > Social science and humanities are two distinct fields of study that are often confused with one another. While both fields deal with human culture and society, there are several key differences between them.
 > 

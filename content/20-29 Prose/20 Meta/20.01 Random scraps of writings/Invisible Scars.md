@@ -1,7 +1,7 @@
 ---
 date: 2023-12-01
-updated: 2024-03-06T14:08:51-05:00
-dg-publish: true
+modified: 2024-03-06T14:08:51-05:00
+draft: true
 cssclasses:
   - novel
 ---

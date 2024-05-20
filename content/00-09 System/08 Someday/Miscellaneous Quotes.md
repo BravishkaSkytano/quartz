@@ -1,10 +1,10 @@
 ---
 up: 
 same: 
-created: 2024-01-16
+date: 2024-01-16
 tags:
   - quotes
-updated: 2024-05-14
+modified: 2024-05-14
 ---
 :::Benjamin Franklin:::
 - By failing to prepare, you are preparing to fail.

@@ -1,6 +1,6 @@
 ---
-created: 2023-10-19
-dg-publish: true
+date: 2023-10-19
+draft: true
 aliases:
   - the church that remains faithful during persecution
   - The Suffering Church

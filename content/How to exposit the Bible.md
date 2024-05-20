@@ -1,5 +1,5 @@
 ---
 date: 2023-11-29
-dg-publish: false
+draft: false
 ---
 - How does it fit in the [[metanarrative]]?

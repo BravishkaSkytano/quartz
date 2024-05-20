@@ -1,6 +1,6 @@
 ---
-created: 2023-10-05
-dg-publish: true
+date: 2023-10-05
+draft: true
 tags:
   - update
 ---

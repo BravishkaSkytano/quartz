@@ -1,9 +1,9 @@
 ---
-created: 2024-02-27
-dg-publish: true
+date: 2024-02-27
+draft: true
 tags:
   - quotes
-updated: 2024-02-28T15:29:10-05:00
+modified: 2024-02-28T15:29:10-05:00
 ---
 
 ## Quotes

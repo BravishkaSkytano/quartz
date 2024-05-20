@@ -1,10 +1,9 @@
 ---
 title: Feminism Essay - Final Draft
 date: 2023-11-06
-modified: 2023-11-28
+modified: 2024-01-22
 same:
   - "[[Research Paper Outline - Complete a Working Outline]]"
-updated: 2024-01-22
 ---
 
 ## INTRODUCTION

@@ -1,8 +1,8 @@
 ---
-created: 2024-04-16
-dg-publish: false
+date: 2024-04-16
+draft: false
 tags: 
-updated: 2024-04-16
+modified: 2024-04-16
 ---
 The three main categories of thought are Aristotelian, neo-Platonic, and mechanistic. The first, and oldest, of the three was named after Aristotle himself and described reality as a composition of many different substances, each with their own unique properties. One who holds to the Aristotelian view would prioritize observation and classification of natural phenomena.
 

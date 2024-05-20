@@ -1,10 +1,10 @@
 ---
-created: 2023-10-20
-dg-publish: true
+date: 2023-10-20
+draft: true
 aliases:
   - the church that follows false prophets
   - The Adulterous Church
-updated: 2024-03-06T13:31:46-05:00
+modified: 2024-03-06T13:31:46-05:00
 ---
 Thyatira was founded by the Lydians and conquered [[Alexander the Great]]‘s general Seleucus Nicanor in the third century B.C. and it became a wealthy commercial city. When one mentioned Thyatira, what came to mind were their cloth making and dying industries and the expensive purple dye that extracted from murex shellfish. The Lydia mentioned in Acts was a Jewish overseas agent for a Thyatian cloth manufactor.
 

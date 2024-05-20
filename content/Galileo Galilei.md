@@ -1,8 +1,8 @@
 ---
-created: 2024-03-27
-dg-publish: false
+date: 2024-03-27
+draft: false
 tags: 
-updated: 2024-03-27
+modified: 2024-03-27
 aliases:
   - Galileo
 ---

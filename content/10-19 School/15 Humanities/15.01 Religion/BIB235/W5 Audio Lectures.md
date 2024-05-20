@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-28T15:59:29-05:00
+modified: 2024-02-28T15:59:29-05:00
 ---
 ## [[Revelation 1]]
 - [*The Revelation of Jesus Christ* by John F Walvoord](https://www.amazon.com/Revelation-Jesus-Christ-John-Walvoord/dp/0802473091)

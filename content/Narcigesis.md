@@ -1,7 +1,7 @@
 ---
-created: 2023-10-03
-dg-publish: true
-updated: 2024-02-14
+date: 2023-10-03
+draft: true
+modified: 2024-02-14
 ---
 
 > *Narcigesis* is a word of fairly recent coinage that has not yet found its way into dictionaries. When people use the word, they are referring to a process of interpreting Scripture in a highly personal, even selfish way.

@@ -1,6 +1,6 @@
 ---
-created: 2023-10-21
-dg-publish: true
+date: 2023-10-21
+draft: true
 aliases:
   - the church that paiently endures despite weaknesses
   - The Faithful Church

@@ -1,10 +1,10 @@
 ---
-created: 2024-02-17
+date: 2024-02-17
 tags: 
-updated: 2024-02-19
+modified: 2024-02-19
 cssclasses:
   - novel
-dg-publish: true
+draft: true
 ---
 “Mom is going out with a friend tonight, I think I’m gonna play Wakfu while she’s gone. Or, maybe I should start SWTOR instead. What do you think?”
 

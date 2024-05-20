@@ -1,9 +1,9 @@
 ---
-created: 2023-11-06
-dg-publish: false
+date: 2023-11-06
+draft: false
 tags:
   - update
-updated: 2024-02-16
+modified: 2024-02-16
 ---
 
 Hidden in one corner of the earth, lies a group of islands with skies so crisp and clear, air refreshingly clean and sweet, and horizons that are blissfully undisturbed. In the morning, the beautiful orange and pink waves of the sunset can be seen from anywhere. At night, the stars light up the sky in breathtaking shades of silver and blue. Here is where beauty, imagination, and adventure have all gracefully danced together for hundreds of years. Are you ready to be transported into another world? Welcome to Aotearoa New Zealand.
