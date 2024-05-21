@@ -1,5 +1,5 @@
 
-###### [[Genesis 3]] | [[55.01 Genesis|Genesis]] | [[Genesis 5]]
+###### [[Genesis 3]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 5]]
 
 ###### 1
 And Adam had relations with his wife Eve, and she conceived and gave birth to Cain. “With the help of the LORD I have brought forth a man,” she said.
@@ -54,4 +54,4 @@ And Adam again had relations with his wife, and she gave birth to a son and name
 ###### 26
 And to Seth also a son was born, and he called him Enosh. At that time men began to call upon the name of the LORD.
 
-###### [[Genesis 3]] | [[55.01 Genesis|Genesis]] | [[Genesis 5]]
+###### [[Genesis 3]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 5]]

@@ -1,5 +1,5 @@
 
-###### [[Genesis 22]] | [[55.01 Genesis|Genesis]] | [[Genesis 24]]
+###### [[Genesis 22]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 24]]
 
 ###### 1
 Now Sarah lived to be 127 years old.
@@ -42,4 +42,4 @@ After this, Abraham buried his wife Sarah in the cave of the field at Machpelah 
 ###### 20
 So the field and its cave were deeded by the Hittites to Abraham as a burial site.
 
-###### [[Genesis 22]] | [[55.01 Genesis|Genesis]] | [[Genesis 24]]
+###### [[Genesis 22]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 24]]

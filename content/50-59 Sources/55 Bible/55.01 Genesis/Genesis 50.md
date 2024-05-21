@@ -1,5 +1,5 @@
 
-###### [[Genesis 49]] | [[55.01 Genesis|Genesis]] | [[Exodus 1]]
+###### [[Genesis 49]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Exodus 1]]
 
 ###### 1
 Then Joseph fell upon his father’s face, wept over him, and kissed him.
@@ -54,4 +54,4 @@ And Joseph made the sons of Israel take an oath and said, “God will surely att
 ###### 26
 So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt.
 
-###### [[Genesis 49]] | [[55.01 Genesis|Genesis]] | [[Exodus 1]]
+###### [[Genesis 49]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Exodus 1]]

@@ -1,5 +1,5 @@
 
-###### [[Genesis 13]] | [[55.01 Genesis|Genesis]] | [[Genesis 15]]
+###### [[Genesis 13]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 15]]
 
 ###### 1
 In those days Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim
@@ -50,4 +50,4 @@ that I will not accept even a thread, or a strap of a sandal, or anything that b
 ###### 24
 I will accept nothing but what my men have eaten and the share for the men who went with me—Aner, Eshcol, and Mamre. They may take their portion.”
 
-###### [[Genesis 13]] | [[55.01 Genesis|Genesis]] | [[Genesis 15]]
+###### [[Genesis 13]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 15]]

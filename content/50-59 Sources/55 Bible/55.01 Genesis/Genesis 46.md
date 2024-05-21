@@ -1,5 +1,5 @@
 
-###### [[Genesis 45]] | [[55.01 Genesis|Genesis]] | [[Genesis 47]]
+###### [[Genesis 45]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 47]]
 
 ###### 1
 So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac.
@@ -70,4 +70,4 @@ When Pharaoh summons you and asks, ‘What is your occupation?’
 ###### 34
 you are to say, ‘Your servants have raised livestock ever since our youth—both we and our fathers.’ Then you will be allowed to settle in the land of Goshen, since all shepherds are detestable to the Egyptians.”
 
-###### [[Genesis 45]] | [[55.01 Genesis|Genesis]] | [[Genesis 47]]
+###### [[Genesis 45]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 47]]

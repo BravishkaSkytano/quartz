@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses:
   - dashboard
+title: Genesis
 ---
-%% Begin Waypoint %%
+
 - [[Genesis 1]]
 - [[Genesis 2]]
 - [[Genesis 3]]
@@ -54,5 +55,3 @@ cssclasses:
 - [[Genesis 48]]
 - [[Genesis 49]]
 - [[Genesis 50]]
-
-%% End Waypoint %%

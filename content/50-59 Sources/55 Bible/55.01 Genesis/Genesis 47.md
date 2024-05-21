@@ -1,5 +1,5 @@
 
-###### [[Genesis 46]] | [[55.01 Genesis|Genesis]] | [[Genesis 48]]
+###### [[Genesis 46]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 48]]
 
 ###### 1
 So Joseph went and told Pharaoh: “My father and my brothers, with their flocks and herds and all they own, have come from the land of Canaan and are now in Goshen.”
@@ -64,4 +64,4 @@ but when I lie down with my fathers, carry me out of Egypt and bury me with them
 ###### 31
 “Swear to me,” Jacob said. So Joseph swore to him, and Israel bowed in worship at the head of his bed.
 
-###### [[Genesis 46]] | [[55.01 Genesis|Genesis]] | [[Genesis 48]]
+###### [[Genesis 46]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 48]]

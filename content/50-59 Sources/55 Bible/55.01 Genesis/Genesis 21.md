@@ -1,5 +1,5 @@
 
-###### [[Genesis 20]] | [[55.01 Genesis|Genesis]] | [[Genesis 22]]
+###### [[Genesis 20]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 22]]
 
 ###### 1
 Now the LORD attended to Sarah as He had said, and the LORD did for Sarah what He had promised.
@@ -70,4 +70,4 @@ And Abraham planted a tamarisk tree in Beersheba, and there he called upon the n
 ###### 34
 And Abraham resided in the land of the Philistines for a long time.
 
-###### [[Genesis 20]] | [[55.01 Genesis|Genesis]] | [[Genesis 22]]
+###### [[Genesis 20]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 22]]

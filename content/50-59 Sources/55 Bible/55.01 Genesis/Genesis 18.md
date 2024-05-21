@@ -1,5 +1,5 @@
 
-###### [[Genesis 17]] | [[55.01 Genesis|Genesis]] | [[Genesis 19]]
+###### [[Genesis 17]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 19]]
 
 ###### 1
 Then the LORD appeared to Abraham by the Oaks of Mamre in the heat of the day, while he was sitting at the entrance of his tent.
@@ -68,4 +68,4 @@ Finally, Abraham said, “May the Lord not be angry, but let me speak once more.
 ###### 33
 When the LORD had finished speaking with Abraham, He departed, and Abraham returned home.
 
-###### [[Genesis 17]] | [[55.01 Genesis|Genesis]] | [[Genesis 19]]
+###### [[Genesis 17]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 19]]

@@ -4,7 +4,7 @@ cssclasses:
   - multi-column-list
 ---
 %% Begin Waypoint %%
-- **[55.01 Genesis](./55.01%20Genesis/55.01%20Genesis.md)**
+- **[index](50-59%20Sources/55%20Bible/55.01%20Genesis/index.md)**
 - **[55.02 Exodus](./55.02%20Exodus/55.02%20Exodus.md)**
 - **[55.03 Leviticus](./55.03%20Leviticus/55.03%20Leviticus.md)**
 - **[55.04 Numbers](./55.04%20Numbers/55.04%20Numbers.md)**

@@ -1,5 +1,5 @@
 
-###### [[Genesis 5]] | [[55.01 Genesis|Genesis]] | [[Genesis 7]]
+###### [[Genesis 5]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 7]]
 
 ###### 1
 Now when men began to multiply on the face of the earth and daughters were born to them,
@@ -46,4 +46,4 @@ You are also to take for yourself every kind of food that is eaten and gather it
 ###### 22
 So Noah did everything precisely as God had commanded him.
 
-###### [[Genesis 5]] | [[55.01 Genesis|Genesis]] | [[Genesis 7]]
+###### [[Genesis 5]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 7]]

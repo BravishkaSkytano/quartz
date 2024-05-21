@@ -1,5 +1,5 @@
 
-###### [[Genesis 16]] | [[55.01 Genesis|Genesis]] | [[Genesis 18]]
+###### [[Genesis 16]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 18]]
 
 ###### 1
 When Abram was ninety-nine years old, the LORD appeared to him and said, “I am God Almighty. Walk before Me and be blameless.
@@ -56,4 +56,4 @@ Abraham and his son Ishmael were circumcised on the same day.
 ###### 27
 And all the men of Abraham’s household—both servants born in his household and those purchased from foreigners—were circumcised with him.
 
-###### [[Genesis 16]] | [[55.01 Genesis|Genesis]] | [[Genesis 18]]
+###### [[Genesis 16]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 18]]

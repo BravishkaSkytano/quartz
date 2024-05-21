@@ -1,5 +1,5 @@
 
-###### [[Genesis 37]] | [[55.01 Genesis|Genesis]] | [[Genesis 39]]
+###### [[Genesis 37]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 39]]
 
 ###### 1
 About that time, Judah left his brothers and settled near a man named Hirah, an Adullamite.
@@ -62,4 +62,4 @@ But when he pulled his hand back and his brother came out, she said, “You have
 ###### 30
 Then his brother came out with the scarlet thread around his wrist, and he was named Zerah.
 
-###### [[Genesis 37]] | [[55.01 Genesis|Genesis]] | [[Genesis 39]]
+###### [[Genesis 37]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 39]]

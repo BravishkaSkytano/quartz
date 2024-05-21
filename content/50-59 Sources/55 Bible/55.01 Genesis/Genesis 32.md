@@ -1,5 +1,5 @@
 
-###### [[Genesis 31]] | [[55.01 Genesis|Genesis]] | [[Genesis 33]]
+###### [[Genesis 31]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 33]]
 
 ###### 1
 Jacob also went on his way, and the angels of God met him.
@@ -66,4 +66,4 @@ The sun rose above him as he passed by Penuel, and he was limping because of his
 ###### 32
 Therefore to this day the Israelites do not eat the tendon which is at the socket of the hip, because the socket of Jacob’s hip was struck near that tendon.
 
-###### [[Genesis 31]] | [[55.01 Genesis|Genesis]] | [[Genesis 33]]
+###### [[Genesis 31]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 33]]

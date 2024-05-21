@@ -1,5 +1,5 @@
 
-###### [[Genesis 26]] | [[55.01 Genesis|Genesis]] | [[Genesis 28]]
+###### [[Genesis 26]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 28]]
 
 ###### 1
 When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him, “My son.” “Here I am,” Esau replied.
@@ -94,4 +94,4 @@ until your brother’s rage against you wanes and he forgets what you have done 
 ###### 46
 Then Rebekah said to Isaac, “I am weary of my life because of these Hittite women. If Jacob takes a Hittite wife from among them, what good is my life?”
 
-###### [[Genesis 26]] | [[55.01 Genesis|Genesis]] | [[Genesis 28]]
+###### [[Genesis 26]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 28]]

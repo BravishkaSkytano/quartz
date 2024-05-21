@@ -1,5 +1,5 @@
 
-###### [[Genesis 32]] | [[55.01 Genesis|Genesis]] | [[Genesis 34]]
+###### [[Genesis 32]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 34]]
 
 ###### 1
 Now Jacob looked up and saw Esau coming toward him with four hundred men. So he divided the children among Leah, Rachel, and the two maidservants.
@@ -42,4 +42,4 @@ And the plot of ground where he pitched his tent, he purchased from the sons of 
 ###### 20
 There he set up an altar and called it El-Elohe-Israel.
 
-###### [[Genesis 32]] | [[55.01 Genesis|Genesis]] | [[Genesis 34]]
+###### [[Genesis 32]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 34]]

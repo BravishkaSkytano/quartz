@@ -1,5 +1,5 @@
 
-###### [[Genesis 30]] | [[55.01 Genesis|Genesis]] | [[Genesis 32]]
+###### [[Genesis 30]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 32]]
 
 ###### 1
 Now Jacob heard that Laban’s sons were saying, “Jacob has taken away all that belonged to our father and built all this wealth at our father’s expense.”
@@ -112,4 +112,4 @@ Then Jacob offered a sacrifice on the mountain and invited his relatives to eat 
 ###### 55
 Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home.
 
-###### [[Genesis 30]] | [[55.01 Genesis|Genesis]] | [[Genesis 32]]
+###### [[Genesis 30]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 32]]

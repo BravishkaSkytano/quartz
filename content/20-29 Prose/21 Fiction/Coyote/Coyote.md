@@ -59,6 +59,3 @@ date: 2023-04-03T18:26:45-04:00
 
 * never married
 * loner, though doesn’t mind occassional company
-
-***
-[[1. What is Philosophy?]]

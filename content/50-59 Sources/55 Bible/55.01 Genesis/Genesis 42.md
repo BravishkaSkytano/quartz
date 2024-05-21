@@ -1,5 +1,5 @@
 
-###### [[Genesis 41]] | [[55.01 Genesis|Genesis]] | [[Genesis 43]]
+###### [[Genesis 41]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 43]]
 
 ###### 1
 When Jacob learned that there was grain in Egypt, he said to his sons, “Why are you staring at one another?”
@@ -78,4 +78,4 @@ Then Reuben said to his father, “You may kill my two sons if I fail to bring h
 ###### 38
 But Jacob replied, “My son will not go down there with you, for his brother is dead, and he alone is left. If any harm comes to him on your journey, you will bring my gray hair down to Sheol in sorrow.”
 
-###### [[Genesis 41]] | [[55.01 Genesis|Genesis]] | [[Genesis 43]]
+###### [[Genesis 41]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 43]]

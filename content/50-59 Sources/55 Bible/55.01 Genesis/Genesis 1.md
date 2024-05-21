@@ -1,5 +1,5 @@
 
-###### [[Revelation 22]] | [[55.01 Genesis|Genesis]] | [[Genesis 2]]
+###### [[Revelation 22]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 2]]
 
 ###### 1
 In the beginning God created the heavens and the earth.
@@ -64,4 +64,4 @@ And to every beast of the earth and every bird of the air and every creature tha
 ###### 31
 And God looked upon all that He had made, and indeed, it was very good. And there was evening, and there was morning—the sixth day.
 
-###### [[Revelation 22]] | [[55.01 Genesis|Genesis]] | [[Genesis 2]]
+###### [[Revelation 22]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 2]]

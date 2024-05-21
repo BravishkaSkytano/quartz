@@ -1,5 +1,5 @@
 
-###### [[Genesis 1]] | [[55.01 Genesis|Genesis]] | [[Genesis 3]]
+###### [[Genesis 1]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 3]]
 
 ###### 1
 Thus the heavens and the earth were completed in all their vast array.
@@ -52,4 +52,4 @@ For this reason a man will leave his father and mother and be united to his wife
 ###### 25
 And the man and his wife were both naked, and they were not ashamed.
 
-###### [[Genesis 1]] | [[55.01 Genesis|Genesis]] | [[Genesis 3]]
+###### [[Genesis 1]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 3]]

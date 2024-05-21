@@ -1,5 +1,5 @@
 
-###### [[Genesis 7]] | [[55.01 Genesis|Genesis]] | [[Genesis 9]]
+###### [[Genesis 7]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 9]]
 
 ###### 1
 But God remembered Noah and all the animals and livestock that were with him in the ark. And God sent a wind over the earth, and the waters began to subside.
@@ -46,4 +46,4 @@ When the LORD smelled the pleasing aroma, He said in His heart, “Never again w
 ###### 22
 As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night shall never cease.”
 
-###### [[Genesis 7]] | [[55.01 Genesis|Genesis]] | [[Genesis 9]]
+###### [[Genesis 7]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 9]]

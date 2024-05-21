@@ -1,5 +1,5 @@
 
-###### [[Genesis 36]] | [[55.01 Genesis|Genesis]] | [[Genesis 38]]
+###### [[Genesis 36]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 38]]
 
 ###### 1
 Now Jacob lived in the land where his father had resided, the land of Canaan.
@@ -74,4 +74,4 @@ All his sons and daughters tried to comfort him, but he refused to be comforted.
 ###### 36
 Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, an officer of Pharaoh and captain of the guard.
 
-###### [[Genesis 36]] | [[55.01 Genesis|Genesis]] | [[Genesis 38]]
+###### [[Genesis 36]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 38]]

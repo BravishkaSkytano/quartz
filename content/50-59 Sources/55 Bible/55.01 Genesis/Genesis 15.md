@@ -1,5 +1,5 @@
 
-###### [[Genesis 14]] | [[55.01 Genesis|Genesis]] | [[Genesis 16]]
+###### [[Genesis 14]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 16]]
 
 ###### 1
 After these events, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.”
@@ -44,4 +44,4 @@ Hittites, Perizzites, Rephaites,
 ###### 21
 Amorites, Canaanites, Girgashites, and Jebusites.”
 
-###### [[Genesis 14]] | [[55.01 Genesis|Genesis]] | [[Genesis 16]]
+###### [[Genesis 14]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 16]]

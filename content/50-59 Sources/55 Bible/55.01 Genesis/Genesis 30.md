@@ -1,5 +1,5 @@
 
-###### [[Genesis 29]] | [[55.01 Genesis|Genesis]] | [[Genesis 31]]
+###### [[Genesis 29]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 31]]
 
 ###### 1
 When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob.
@@ -88,4 +88,4 @@ But if the animals were weak, he did not set out the branches. So the weaker ani
 ###### 43
 Thus Jacob became exceedingly prosperous. He owned large flocks, maidservants and menservants, and camels and donkeys.
 
-###### [[Genesis 29]] | [[55.01 Genesis|Genesis]] | [[Genesis 31]]
+###### [[Genesis 29]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 31]]

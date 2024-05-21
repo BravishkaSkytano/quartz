@@ -1,5 +1,5 @@
 
-###### [[Genesis 33]] | [[55.01 Genesis|Genesis]] | [[Genesis 35]]
+###### [[Genesis 33]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 35]]
 
 ###### 1
 Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.
@@ -64,4 +64,4 @@ Then Jacob said to Simeon and Levi, “You have brought trouble upon me by makin
 ###### 31
 But they replied, “Should he have treated our sister like a prostitute?”
 
-###### [[Genesis 33]] | [[55.01 Genesis|Genesis]] | [[Genesis 35]]
+###### [[Genesis 33]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 35]]

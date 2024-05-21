@@ -1,5 +1,5 @@
 
-###### [[Genesis 4]] | [[55.01 Genesis|Genesis]] | [[Genesis 6]]
+###### [[Genesis 4]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 6]]
 
 ###### 1
 This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness.
@@ -66,4 +66,4 @@ So Lamech lived a total of 777 years, and then he died.
 ###### 32
 After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
 
-###### [[Genesis 4]] | [[55.01 Genesis|Genesis]] | [[Genesis 6]]
+###### [[Genesis 4]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 6]]

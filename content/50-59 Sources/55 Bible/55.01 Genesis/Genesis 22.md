@@ -1,5 +1,5 @@
 
-###### [[Genesis 21]] | [[55.01 Genesis|Genesis]] | [[Genesis 23]]
+###### [[Genesis 21]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 23]]
 
 ###### 1
 Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered.
@@ -50,4 +50,4 @@ And Bethuel became the father of Rebekah. Milcah bore these eight sons to Abraha
 ###### 24
 Moreover, Nahor’s concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, and Maacah.
 
-###### [[Genesis 21]] | [[55.01 Genesis|Genesis]] | [[Genesis 23]]
+###### [[Genesis 21]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 23]]

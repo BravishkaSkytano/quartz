@@ -1,5 +1,5 @@
 
-###### [[Genesis 15]] | [[55.01 Genesis|Genesis]] | [[Genesis 17]]
+###### [[Genesis 15]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 17]]
 
 ###### 1
 Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar.
@@ -34,4 +34,4 @@ And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had b
 ###### 16
 Abram was eighty-six years old when Hagar bore Ishmael to him.
 
-###### [[Genesis 15]] | [[55.01 Genesis|Genesis]] | [[Genesis 17]]
+###### [[Genesis 15]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 17]]

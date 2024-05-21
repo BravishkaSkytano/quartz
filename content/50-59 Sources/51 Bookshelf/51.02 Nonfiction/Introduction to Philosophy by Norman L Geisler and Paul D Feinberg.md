@@ -1,8 +1,8 @@
 ---
 id: 202405141314
 date: 2024-05-14
-modified: 2024-05-20
-draft: true
+modified: 2024-05-21
+draft: false
 tags:
   - type/book
   - genre/philosophy

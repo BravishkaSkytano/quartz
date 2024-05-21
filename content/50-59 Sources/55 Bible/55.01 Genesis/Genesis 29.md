@@ -1,5 +1,5 @@
 
-###### [[Genesis 28]] | [[55.01 Genesis|Genesis]] | [[Genesis 30]]
+###### [[Genesis 28]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 30]]
 
 ###### 1
 Jacob resumed his journey and came to the land of the people of the east.
@@ -72,4 +72,4 @@ Once again Leah conceived and gave birth to a son, and she said, “Now at last 
 ###### 35
 And once more she conceived and gave birth to a son and said, “This time I will praise the LORD.” So she named him Judah. Then Leah stopped having children.
 
-###### [[Genesis 28]] | [[55.01 Genesis|Genesis]] | [[Genesis 30]]
+###### [[Genesis 28]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 30]]

@@ -1,5 +1,5 @@
 
-###### [[Genesis 35]] | [[55.01 Genesis|Genesis]] | [[Genesis 37]]
+###### [[Genesis 35]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 37]]
 
 ###### 1
 This is the account of Esau (that is, Edom).
@@ -88,4 +88,4 @@ Kenaz, Teman, Mibzar,
 ###### 43
 Magdiel, and Iram. These were the chiefs of Edom, according to their settlements in the land they possessed. Esau was the father of the Edomites.
 
-###### [[Genesis 35]] | [[55.01 Genesis|Genesis]] | [[Genesis 37]]
+###### [[Genesis 35]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 37]]

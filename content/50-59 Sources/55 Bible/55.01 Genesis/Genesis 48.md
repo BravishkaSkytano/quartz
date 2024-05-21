@@ -1,5 +1,5 @@
 
-###### [[Genesis 47]] | [[55.01 Genesis|Genesis]] | [[Genesis 49]]
+###### [[Genesis 47]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 49]]
 
 ###### 1
 Some time later Joseph was told, “Your father is ill.” So he set out with his two sons, Manasseh and Ephraim.
@@ -46,4 +46,4 @@ Then Israel said to Joseph, “Look, I am about to die, but God will be with you
 ###### 22
 And to you, as one who is above your brothers, I give the ridge of land that I took from the Amorites with my sword and bow.”
 
-###### [[Genesis 47]] | [[55.01 Genesis|Genesis]] | [[Genesis 49]]
+###### [[Genesis 47]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 49]]

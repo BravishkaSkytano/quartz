@@ -1,5 +1,5 @@
 
-###### [[Genesis 11]] | [[55.01 Genesis|Genesis]] | [[Genesis 13]]
+###### [[Genesis 11]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 13]]
 
 ###### 1
 Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you.
@@ -42,4 +42,4 @@ Why did you say, ‘She is my sister,’ so that I took her as my wife? Now then
 ###### 20
 Then Pharaoh gave his men orders concerning Abram, and they sent him away with his wife and all his possessions.
 
-###### [[Genesis 11]] | [[55.01 Genesis|Genesis]] | [[Genesis 13]]
+###### [[Genesis 11]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 13]]

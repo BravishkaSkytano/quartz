@@ -1,5 +1,5 @@
 
-###### [[Genesis 6]] | [[55.01 Genesis|Genesis]] | [[Genesis 8]]
+###### [[Genesis 6]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 8]]
 
 ###### 1
 Then the LORD said to Noah, “Go into the ark, you and all your family, because I have found you righteous in this generation.
@@ -50,4 +50,4 @@ And every living thing on the face of the earth was destroyed—man and livestoc
 ###### 24
 And the waters prevailed upon the earth for 150 days.
 
-###### [[Genesis 6]] | [[55.01 Genesis|Genesis]] | [[Genesis 8]]
+###### [[Genesis 6]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 8]]

@@ -1,5 +1,5 @@
 
-###### [[Genesis 34]] | [[55.01 Genesis|Genesis]] | [[Genesis 36]]
+###### [[Genesis 34]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 36]]
 
 ###### 1
 Then God said to Jacob, “Arise, go up to Bethel, and settle there. Build an altar there to the God who appeared to you when you fled from your brother Esau.”
@@ -60,4 +60,4 @@ And Isaac lived 180 years.
 ###### 29
 Then he breathed his last and died and was gathered to his people, old and full of years. And his sons Esau and Jacob buried him.
 
-###### [[Genesis 34]] | [[55.01 Genesis|Genesis]] | [[Genesis 36]]
+###### [[Genesis 34]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 36]]

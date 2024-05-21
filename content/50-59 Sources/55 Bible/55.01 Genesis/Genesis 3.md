@@ -1,5 +1,5 @@
 
-###### [[Genesis 2]] | [[55.01 Genesis|Genesis]] | [[Genesis 4]]
+###### [[Genesis 2]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 4]]
 
 ###### 1
 Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”
@@ -50,4 +50,4 @@ Therefore the LORD God banished him from the Garden of Eden to work the ground f
 ###### 24
 So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.
 
-###### [[Genesis 2]] | [[55.01 Genesis|Genesis]] | [[Genesis 4]]
+###### [[Genesis 2]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 4]]

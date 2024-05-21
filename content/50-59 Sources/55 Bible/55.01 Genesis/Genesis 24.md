@@ -1,5 +1,5 @@
 
-###### [[Genesis 23]] | [[55.01 Genesis|Genesis]] | [[Genesis 25]]
+###### [[Genesis 23]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 25]]
 
 ###### 1
 By now Abraham was old and well along in years, and the LORD had blessed him in every way.
@@ -136,4 +136,4 @@ Then the servant told Isaac all that he had done.
 ###### 67
 And Isaac brought her into the tent of his mother Sarah and took Rebekah as his wife. And Isaac loved her and was comforted after his mother’s death.
 
-###### [[Genesis 23]] | [[55.01 Genesis|Genesis]] | [[Genesis 25]]
+###### [[Genesis 23]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 25]]

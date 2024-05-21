@@ -1,5 +1,5 @@
 
-###### [[Genesis 8]] | [[55.01 Genesis|Genesis]] | [[Genesis 10]]
+###### [[Genesis 8]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 10]]
 
 ###### 1
 And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth.
@@ -60,4 +60,4 @@ After the flood, Noah lived 350 years.
 ###### 29
 So Noah lived a total of 950 years, and then he died.
 
-###### [[Genesis 8]] | [[55.01 Genesis|Genesis]] | [[Genesis 10]]
+###### [[Genesis 8]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 10]]

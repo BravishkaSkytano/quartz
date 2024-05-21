@@ -1,5 +1,5 @@
 
-###### [[Genesis 10]] | [[55.01 Genesis|Genesis]] | [[Genesis 12]]
+###### [[Genesis 10]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 12]]
 
 ###### 1
 Now the whole world had one language and a common form of speech.
@@ -66,4 +66,4 @@ And Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in
 ###### 32
 Terah lived 205 years, and he died in Haran.
 
-###### [[Genesis 10]] | [[55.01 Genesis|Genesis]] | [[Genesis 12]]
+###### [[Genesis 10]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 12]]

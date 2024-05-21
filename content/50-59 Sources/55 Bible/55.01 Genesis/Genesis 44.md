@@ -1,5 +1,5 @@
 
-###### [[Genesis 43]] | [[55.01 Genesis|Genesis]] | [[Genesis 45]]
+###### [[Genesis 43]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 45]]
 
 ###### 1
 Then Joseph instructed his steward: “Fill the men’s sacks with as much food as they can carry, and put each one’s silver in the mouth of his sack.
@@ -70,4 +70,4 @@ Now please let your servant stay here as my lord’s slave in place of the boy. 
 ###### 34
 For how can I go back to my father without the boy? I could not bear to see the misery that would overwhelm him.”
 
-###### [[Genesis 43]] | [[55.01 Genesis|Genesis]] | [[Genesis 45]]
+###### [[Genesis 43]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 45]]

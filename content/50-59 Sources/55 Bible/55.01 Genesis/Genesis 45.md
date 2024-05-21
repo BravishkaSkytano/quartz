@@ -1,5 +1,5 @@
 
-###### [[Genesis 44]] | [[55.01 Genesis|Genesis]] | [[Genesis 46]]
+###### [[Genesis 44]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 46]]
 
 ###### 1
 Then Joseph could no longer control himself before all his attendants, and he cried out, “Send everyone away from me!” So none of them were with Joseph when he made himself known to his brothers.
@@ -58,4 +58,4 @@ However, when they relayed all that Joseph had told them, and when he saw the wa
 ###### 28
 “Enough!” declared Israel. “My son Joseph is still alive! I will go to see him before I die.”
 
-###### [[Genesis 44]] | [[55.01 Genesis|Genesis]] | [[Genesis 46]]
+###### [[Genesis 44]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 46]]

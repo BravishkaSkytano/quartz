@@ -1,5 +1,5 @@
 
-###### [[Genesis 18]] | [[55.01 Genesis|Genesis]] | [[Genesis 20]]
+###### [[Genesis 18]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 20]]
 
 ###### 1
 Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown,
@@ -78,4 +78,4 @@ The older daughter gave birth to a son and named him Moab. He is the father of t
 ###### 38
 The younger daughter also gave birth to a son, and she named him Ben-ammi. He is the father of the Ammonites of today.
 
-###### [[Genesis 18]] | [[55.01 Genesis|Genesis]] | [[Genesis 20]]
+###### [[Genesis 18]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 20]]

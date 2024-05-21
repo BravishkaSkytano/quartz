@@ -1,5 +1,5 @@
 
-###### [[Genesis 42]] | [[55.01 Genesis|Genesis]] | [[Genesis 44]]
+###### [[Genesis 42]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 44]]
 
 ###### 1
 Now the famine was still severe in the land.
@@ -70,4 +70,4 @@ They were seated before Joseph in order by age, from the firstborn to the younge
 ###### 34
 When the portions were served to them from Joseph’s table, Benjamin’s portion was five times larger than any of the others. So they feasted and drank freely with Joseph.
 
-###### [[Genesis 42]] | [[55.01 Genesis|Genesis]] | [[Genesis 44]]
+###### [[Genesis 42]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 44]]

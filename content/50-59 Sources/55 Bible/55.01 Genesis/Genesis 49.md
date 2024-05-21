@@ -1,5 +1,5 @@
 
-###### [[Genesis 48]] | [[55.01 Genesis|Genesis]] | [[Genesis 50]]
+###### [[Genesis 48]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 50]]
 
 ###### 1
 Then Jacob called for his sons and said, “Gather around so that I can tell you what will happen to you in the days to come:
@@ -68,4 +68,4 @@ The field and the cave that is in it were purchased from the Hittites.”
 ###### 33
 When Jacob had finished instructing his sons, he pulled his feet into the bed and breathed his last, and he was gathered to his people.
 
-###### [[Genesis 48]] | [[55.01 Genesis|Genesis]] | [[Genesis 50]]
+###### [[Genesis 48]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 50]]

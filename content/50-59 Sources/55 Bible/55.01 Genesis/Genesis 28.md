@@ -1,5 +1,5 @@
 
-###### [[Genesis 27]] | [[55.01 Genesis|Genesis]] | [[Genesis 29]]
+###### [[Genesis 27]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 29]]
 
 ###### 1
 So Isaac called for Jacob and blessed him. “Do not take a wife from the Canaanite women,” he commanded.
@@ -46,4 +46,4 @@ so that I may return safely to my father’s house, then the LORD will be my God
 ###### 22
 And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”
 
-###### [[Genesis 27]] | [[55.01 Genesis|Genesis]] | [[Genesis 29]]
+###### [[Genesis 27]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 29]]

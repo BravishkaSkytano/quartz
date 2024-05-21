@@ -1,5 +1,5 @@
 
-###### [[Genesis 39]] | [[55.01 Genesis|Genesis]] | [[Genesis 41]]
+###### [[Genesis 39]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 41]]
 
 ###### 1
 Some time later, the king’s cupbearer and baker offended their master, the king of Egypt.
@@ -48,4 +48,4 @@ But Pharaoh hanged the chief baker, just as Joseph had described to them in his 
 ###### 23
 The chief cupbearer, however, did not remember Joseph; he forgot all about him.
 
-###### [[Genesis 39]] | [[55.01 Genesis|Genesis]] | [[Genesis 41]]
+###### [[Genesis 39]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 41]]

@@ -1,5 +1,5 @@
 
-###### [[Genesis 40]] | [[55.01 Genesis|Genesis]] | [[Genesis 42]]
+###### [[Genesis 40]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 42]]
 
 ###### 1
 After two full years had passed, Pharaoh had a dream: He was standing beside the Nile,
@@ -116,4 +116,4 @@ When the famine had spread over all the land, Joseph opened up all the storehous
 ###### 57
 And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth.
 
-###### [[Genesis 40]] | [[55.01 Genesis|Genesis]] | [[Genesis 42]]
+###### [[Genesis 40]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 42]]

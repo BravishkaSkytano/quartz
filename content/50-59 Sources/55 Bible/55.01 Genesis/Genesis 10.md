@@ -1,5 +1,5 @@
 
-###### [[Genesis 9]] | [[55.01 Genesis|Genesis]] | [[Genesis 11]]
+###### [[Genesis 9]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 11]]
 
 ###### 1
 This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood.
@@ -66,4 +66,4 @@ These are the sons of Shem, according to their clans, languages, lands, and nati
 ###### 32
 All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood.
 
-###### [[Genesis 9]] | [[55.01 Genesis|Genesis]] | [[Genesis 11]]
+###### [[Genesis 9]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 11]]

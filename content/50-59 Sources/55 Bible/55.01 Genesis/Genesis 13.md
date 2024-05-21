@@ -1,5 +1,5 @@
 
-###### [[Genesis 12]] | [[55.01 Genesis|Genesis]] | [[Genesis 14]]
+###### [[Genesis 12]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 14]]
 
 ###### 1
 So Abram went up out of Egypt into the Negev—he and his wife and all his possessions—and Lot was with him.
@@ -38,4 +38,4 @@ Get up and walk around the land, through its length and breadth, for I will give
 ###### 18
 So Abram moved his tent and went to live near the Oaks of Mamre at Hebron, where he built an altar to the LORD.
 
-###### [[Genesis 12]] | [[55.01 Genesis|Genesis]] | [[Genesis 14]]
+###### [[Genesis 12]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 14]]

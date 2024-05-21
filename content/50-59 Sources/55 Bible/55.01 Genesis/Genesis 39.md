@@ -1,5 +1,5 @@
 
-###### [[Genesis 38]] | [[55.01 Genesis|Genesis]] | [[Genesis 40]]
+###### [[Genesis 38]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 40]]
 
 ###### 1
 Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar, an officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had taken him there.
@@ -48,4 +48,4 @@ And the warden put all the prisoners under Joseph’s care, so that he was respo
 ###### 23
 The warden did not concern himself with anything under Joseph’s care, because the LORD was with Joseph and gave him success in whatever he did.
 
-###### [[Genesis 38]] | [[55.01 Genesis|Genesis]] | [[Genesis 40]]
+###### [[Genesis 38]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 40]]

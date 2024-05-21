@@ -1,5 +1,5 @@
 
-###### [[Genesis 24]] | [[55.01 Genesis|Genesis]] | [[Genesis 26]]
+###### [[Genesis 24]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 26]]
 
 ###### 1
 Now Abraham had taken another wife, named Keturah,
@@ -70,4 +70,4 @@ He said to Jacob, “Let me eat some of that red stew, for I am famished.” (Th
 ###### 34
 Then Jacob gave some bread and lentil stew to Esau, who ate and drank and then got up and went away. Thus Esau despised his birthright.
 
-###### [[Genesis 24]] | [[55.01 Genesis|Genesis]] | [[Genesis 26]]
+###### [[Genesis 24]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 26]]

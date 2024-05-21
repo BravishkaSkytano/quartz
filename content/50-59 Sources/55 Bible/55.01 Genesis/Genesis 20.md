@@ -1,5 +1,5 @@
 
-###### [[Genesis 19]] | [[55.01 Genesis|Genesis]] | [[Genesis 21]]
+###### [[Genesis 19]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 21]]
 
 ###### 1
 Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar,
@@ -38,4 +38,4 @@ Then Abraham prayed to God, and God healed Abimelech and his wife and his maidse
 ###### 18
 for on account of Abraham’s wife Sarah, the LORD had completely closed all the wombs in Abimelech’s household.
 
-###### [[Genesis 19]] | [[55.01 Genesis|Genesis]] | [[Genesis 21]]
+###### [[Genesis 19]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 21]]

@@ -1,5 +1,5 @@
 
-###### [[Genesis 25]] | [[55.01 Genesis|Genesis]] | [[Genesis 27]]
+###### [[Genesis 25]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 27]]
 
 ###### 1
 Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar.
@@ -72,4 +72,4 @@ When Esau was forty years old, he took as his wives Judith daughter of Beeri the
 ###### 35
 And they brought grief to Isaac and Rebekah.
 
-###### [[Genesis 25]] | [[55.01 Genesis|Genesis]] | [[Genesis 27]]
+###### [[Genesis 25]] | [[50-59 Sources/55 Bible/55.01 Genesis/index|Genesis]] | [[Genesis 27]]
