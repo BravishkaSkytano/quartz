@@ -1,18 +1,13 @@
 ---
 date: 2023-12-12
 title: Callouts
+draft: true
 ---
 
 > [!note]- Note
-> Contacts
-
-> [!abstract]- Abstract
 > Contents
 
-> [!summary]- Summary
-> Contents
-
-> [!tldr]- TLDR
+> [!abstract]- Abstract / summary /tldr
 > Contents
 
 > [!info]- Info
@@ -21,16 +16,10 @@ title: Callouts
 > [!todo]- Todo
 > Contents
 
-> [!tip]- Tip / Hint
-> Contents
-
-> [!important]- Important
+> [!tip]- Tip / Hint / Important
 > Contents
 
 > [!success]- Success / Check / Done
-> Contents
-
-> [!done]- Title
 > Contents
 
 > [!question]- Question / Help / FAQ

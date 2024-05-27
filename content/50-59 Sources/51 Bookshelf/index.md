@@ -2,16 +2,21 @@
 title: 51 Bookshelf
 id: 202405161031
 date: 2024-05-16
-modified: 2024-05-21
+modified: 2024-05-22
 tags:
   - moc
   - source/books
-draft: true
+draft: false
 ---
 
 ## Currently Reading
 
 - [[Introduction to Philosophy by Norman L Geisler and Paul D Feinberg]]
+- The Villianess for the Tyrant
+- Raising My Fiancee with Money
+- Revolutionary Princess Eve
+- Vampire Consort
+- Winter Wolf
 
 %%
 ```dataview
