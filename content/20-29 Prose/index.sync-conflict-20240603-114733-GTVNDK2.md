@@ -11,5 +11,5 @@ draft: false
 
 **Origin:** derived from the Old French prose, which originates from the Latin expression prosa oratio (literally, straightforward or direct speech).
 
-**Example:** works of [[15.02 Philosophy|philosophy]], history, economics, etc., journalism, and most fiction.
+**Example:** works of philosophy, history, economics, etc., journalism, and most fiction.
 

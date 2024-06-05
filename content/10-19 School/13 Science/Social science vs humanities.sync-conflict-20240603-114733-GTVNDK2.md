@@ -8,7 +8,7 @@ modified: 2024-03-06T13:56:09-05:00
 > 
 > Social science is concerned with the systematic study of social structures, institutions, and relationships among individuals and groups. It includes fields such as sociology, psychology, anthropology, and economics. Social science seeks to understand how society functions and how individuals and groups interact within it. It often employs empirical methods such as surveys, experiments, and statistical analysis to collect and analyze data.
 > 
-> Humanities, on the other hand, are concerned with the study of human culture, history, and expression. They include fields such as literature, [[15.02 Philosophy|philosophy]], history, and the arts. Humanities seek to understand the human experience and the ways in which individuals and societies have expressed themselves throughout history. Humanities often rely on critical analysis, interpretation, and contextualization of texts and artifacts to understand the human condition.
+> Humanities, on the other hand, are concerned with the study of human culture, history, and expression. They include fields such as literature, philosophy, history, and the arts. Humanities seek to understand the human experience and the ways in which individuals and societies have expressed themselves throughout history. Humanities often rely on critical analysis, interpretation, and contextualization of texts and artifacts to understand the human condition.
 > 
 > Here are some key differences between social science and humanities:
 > 

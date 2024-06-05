@@ -8,7 +8,7 @@ tags:
   - moc
 draft: false
 ---
-> The humanities are academic disciplines that study human culture, behavior, and experience. They include fields such as history, literature, [[15.02 Philosophy|philosophy]], languages, and the arts. The humanities seek to understand the human condition and the ways in which individuals and societies have expressed themselves throughout history.
+> The humanities are academic disciplines that study human culture, behavior, and experience. They include fields such as history, literature, philosophy, languages, and the arts. The humanities seek to understand the human condition and the ways in which individuals and societies have expressed themselves throughout history.
 > 
 > Some of the main branches of the humanities include:
 > 
