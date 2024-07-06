@@ -1,10 +1,10 @@
 ---
-title: Chapter 1 Summary
-date: 2024-05-06
 id: 20240506112020
+title: Ch 1. What is Philosophy?
+date: 2024-05-06
 tags:
   - philosophy
-modified: 2024-05-14
+modified: 2024-07-06
 ---
 
 [[20240511170611|Definition of Philosophy]]
