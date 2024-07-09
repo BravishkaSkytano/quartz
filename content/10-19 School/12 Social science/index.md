@@ -5,7 +5,7 @@ description:
 date: 2024-05-17
 modified: 2024-05-19
 tags:
-  - moc
+  - 📥/🌲
 draft: false
 ---
 > Social science is the study of human behavior, relationships, and social phenomena. It often involves the study of human culture, society, and institutions, and the methods used to study social science can be more varied and less standardized than those used in natural science. Social scientists may use a combination of empirical evidence, historical analysis, and critical interpretation to develop and test theories about human behavior and social phenomena. Some of the main sub-categories of social sciences include:

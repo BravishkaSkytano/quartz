@@ -1,10 +1,11 @@
 ---
 date: 2023-09-23
-modified: 2024-02-28T15:58:12-05:00
+modified: 2024-07-09
 tags:
-  - update
+  - 📥/🥀
 ---
 ## [[Daniel 7#1|Daniel 7:1]][[Daniel 7#2|]][[Daniel 7#3|]][[Daniel 7#4|]][[Daniel 7#5|]][[Daniel 7#6|]][[Daniel 7#7|]][[Daniel 7#8|-8]]
+
 - [[Dan 7#2|"the great sea"]] is either the Mediterranean Sea or figuratively the Gentile kings and/or kingdoms like in [[Isa 57#20|Isaiah 57:20]] and [[Rev 17#15|Revelation 17:15]]
 - [[Dan 7#4|the lion with eagle's wings]] is believed to be Babylon, the grand ruler of both land and air
 - [[Dan 7#5|the bear]] is the Medo-Persian army

@@ -3,7 +3,7 @@ date: 2023-10-03
 draft: true
 modified: 2024-02-14
 tags:
-  - update
+  - 📥/🌱
 ---
 A ram with clean feet and sharp-pointed horns is the guardian spirit of Persia. The king would hold the head of a ram when he was at the head of the army.
 

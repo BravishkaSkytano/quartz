@@ -3,9 +3,8 @@ id: 202405222133
 title: 20.02 Videos
 description: Videos that I refer to when writing
 date: 2024-05-22
-modified: 2024-05-22
+modified: 2024-07-09
 tags: 
-draft: false
 ---
 
 ## Playlists

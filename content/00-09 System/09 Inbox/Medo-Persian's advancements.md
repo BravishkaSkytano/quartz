@@ -3,7 +3,7 @@ date: 2023-10-03
 draft: true
 modified: 2024-02-14
 tags:
-  - update
+  - 📥/🌱
 ---
 Medo-Persian took over Palestine, Asia Minor, and Egypt.
 

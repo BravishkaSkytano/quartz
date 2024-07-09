@@ -3,9 +3,8 @@ id: 202405222147
 title: 20-29 Prose
 description: My collection of writings and book drafts
 date: 2024-05-22
-modified: 2024-05-22
+modified: 2024-07-09
 tags: 
-draft: false
 ---
 **Definition:** a form of written language that follows the natural flow of everyday speech.
 

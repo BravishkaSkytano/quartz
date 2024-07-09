@@ -1,10 +1,12 @@
 ---
 start: 2023-09-04
 end: 2025-05-15
-modified: 2024-02-14
+modified: 2024-07-09
 aliases:
   - The Virtues Campus
   - Virtues
+tags:
+  - 📥/🌲
 ---
 
 **Every quiz and test is open book!**

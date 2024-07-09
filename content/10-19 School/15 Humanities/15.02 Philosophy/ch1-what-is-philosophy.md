@@ -2,9 +2,10 @@
 id: 20240506112020
 title: Ch 1. What is Philosophy?
 date: 2024-05-06
+modified: 2024-07-09
 tags:
   - philosophy
-modified: 2024-07-06
+draft: true
 ---
 
 [[20240511170611|Definition of Philosophy]]
