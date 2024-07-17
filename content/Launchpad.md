@@ -12,7 +12,7 @@ cssclasses:
 
 ---
 ```meta-bind-button
-style: default
+style: primary
 label: Open Daily Note
 hidden: true
 id: daily-note
@@ -22,7 +22,7 @@ actions:
 
 ```
 ```meta-bind-button
-style: default
+style: primary
 hidden: true
 label: Open Weekly Note
 id: weekly-note
@@ -31,7 +31,7 @@ actions:
     command: periodic-notes:open-weekly-note
 ```
 ```meta-bind-button
-style: default
+style: primary
 label: View Tasks
 hidden: true
 id: tasks
@@ -40,7 +40,7 @@ actions:
     command: card-board:open-card-board-plugin-0
 ```
 ```meta-bind-button
-style: default
+style: destructive
 label: Light Mode
 id: light-mode
 hidden: true
@@ -49,7 +49,7 @@ actions:
     command: theme:use-light
 ```
 ```meta-bind-button
-style: default
+style: destructive
 label: Dark Mode
 id: dark-mode
 hidden: true
