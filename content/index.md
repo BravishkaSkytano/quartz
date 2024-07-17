@@ -4,12 +4,7 @@ title: Home
 date: 2024-05-11
 tags:
   - 📥/🌲
-cssclasses:
-  - dashboard
-modified: 2024-05-22
-draft: false
-aliases:
-  - Home
+modified: 2024-07-15
 ---
 Salutations and welcome to my digital garden!
 

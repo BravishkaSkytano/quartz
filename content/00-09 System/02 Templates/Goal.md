@@ -1,17 +1,14 @@
 <%"---"%>
-id: <% tp.date.now("YYYYMMDDHHss") %>
 area:
-Progress: 0
-Target: 100
+progress: 0
+target: 100
 start:
 deadline:
-banner: "![[afif-ramdhasuma-RjqCk9MqhNg-unsplash.jpg]]"
-banner_y: 0.5
 completed:
 <%"---"%>
 
 ```meta-bind
-INPUT[progressBar(title(Progress), minValue(0), maxValue(100)):Progress]
+INPUT[progressBar(title(Progress), minValue(0), maxValue(100)):progress]
 ```
 
 > [!info] Why is this goal Important to me?

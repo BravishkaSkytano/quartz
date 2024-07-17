@@ -1,2 +1,0 @@
-
-[Why :: <% tp.file.cursor() %>]

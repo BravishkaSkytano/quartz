@@ -1,62 +1,51 @@
 <%"---"%>
-id: <% tp.date.now("YYYYMMDDHHss") %>
+id: <% tp.date.now("YYYYMMDDHHmm") %>
+title: <% tp.date.now("dddd, MMMM Do, YYYY") %>
 banner_icon: 🗝️
 <%"---"%>
 
-## [[<% tp.date.yesterday("YYYY.MM.DD") %>|⬅]] <% tp.date.now("dddd 💠 MMMM Do 💠 YYYY") %> [[<% tp.date.tomorrow("YYYY.MM.DD") %>|➡]]
-
-> [!INFO]- Metadata
-> - Created:: <% tp.date.now("YYYY-MM-DD @ HH:mm") %>
-> - Updated:: <% tp.date.now("YYYY-MM-DD @ HH:mm") %>
-> - ID:: <% tp.date.now('YYYYMMDDHHmm') %>
-> - Week:: [[<% tp.date.now("YY.[W]WW") %>]]
+[[<% tp.date.yesterday("YYYY.MM.DD") %>|⬅ <% tp.date.yesterday("MMMM Do") %>]] | [[<% tp.date.tomorrow("YYYY.MM.DD") %>| <% tp.date.tomorrow("MMMM Do") %> ➡]]
 
 <% tp.web.daily_quote() %>
 
-### Memos
-- …
+## Tasks
 
-^memo-link
-
-### Work Log
-- …
-
-^work-link
-
-### Trackers
-
-#### Statistics
-
-- Feeling:: 
-- Learned Word:: 
-- Money Spent:: 
-- Panic:: 
-- Prayer:: 
-- Steps:: 
-
-#### Habits
-
-- Anki:: 
-- Exercise:: 
-- Martial Arts:: 
-- Reading:: 
-- Shower:: 
-- Writing:: 
-
-### Tasks
-
-<%"```toggl"%>
-LIST <% tp.date.now("YYYY-MM-DD") %>
-GROUP BY PROJECT
-SORT DESC
-<%"```"%>
-
-#### Not Done
+### Not Done Yet
 
 <%"```tasks"%>
 happens <% tp.date.now("YYYY-MM-DD") %>
 short mode
 <%"```"%>
 
-#### New Today
-- [ ]
+### New Additions
+
+- [ ] 
+
+## Memos
+
+- …
+
+^memo-link
+
+## Work Log
+
+- …
+
+^work-link
+
+## Trackers
+
+> [!milestone] Goals
+> ![[<% tp.date.now("YYYY-[W]ww") %>#^goals-link]]
+
+> [!orbit] Habit Tracker
+> Writing: `INPUT[toggle:writing]` Stretch: `INPUT[toggle:stretch]` Reading: `INPUT[toggle:reading]`
+
+```meta-bind
+INPUT[list(title(Wins This Week)):list]
+```
+
+```meta-bind
+INPUT[progressBar(title(Proudness), minValue(0), maxValue(10)):proudness]
+```
+

@@ -3,16 +3,16 @@ id: 202405172358
 title: 12 Social science
 description: 
 date: 2024-05-17
-modified: 2024-05-19
+modified: 2024-07-17
 tags:
   - 📥/🌲
 draft: false
 ---
 > Social science is the study of human behavior, relationships, and social phenomena. It often involves the study of human culture, society, and institutions, and the methods used to study social science can be more varied and less standardized than those used in natural science. Social scientists may use a combination of empirical evidence, historical analysis, and critical interpretation to develop and test theories about human behavior and social phenomena. Some of the main sub-categories of social sciences include:
 > 
-> 1. Anthropology: the study of human societies and cultures, both past and present.
-> 2. Economics: the study of how individuals, businesses, and societies make choices about allocating resources to meet their needs and wants.
-> 3. Political Science: the study of political systems, institutions, and behaviors.
+> 1. Anthropology: 
+> 2. Economics: 
+> 3. Political Science: 
 > 4. Psychology: the scientific study of the mind and behavior, including human development, personality, and mental processes.
 > 5. Sociology: the study of human social behavior, relationships, and institutions.
 > 6. Human Geography: the study of the relationship between people, culture, and the natural environment.

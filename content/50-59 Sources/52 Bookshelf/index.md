@@ -11,7 +11,7 @@ draft: false
 
 ## Currently Reading
 
-- [[Introduction to Philosophy by Norman L Geisler and Paul D Feinberg]] ![progress-bar](https://progress-bar.dev/10)
+- [[Introduction to Philosophy by Norman L Geisler and Paul D Feinberg|Introduction to Philosophy]] ![progress-bar](https://progress-bar.dev/10)
 - A Villianess for the Tyrant
     - Started: 
     - [Novel](https://tapas.io/series/a-villainess-for-the-tyrant-novel/info)

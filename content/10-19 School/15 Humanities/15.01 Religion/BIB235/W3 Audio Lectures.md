@@ -46,7 +46,7 @@ tags:
 - In Rev 13:7, John only mentions the "church" in the beginning of Revelations and at the end, but not in the middle. The "saints" are used in the middle
 - A time in Hebrew means one. 3 1/2 times equals 42 months or 3 1/2 years
 - the Jews follow a Lunar calendar of 12 months and 30 days each
-- Check out [[The Man With A Plan by Dave Breese]]
+- Check out [[The Man With A Plan by Dave Breese|The Man With A Plan]]
 ## [[Dan 9#1|Dan 9,1-19]][[Dan 9#2|]][[Dan 9#3|]][[Dan 9#4|]][[Dan 9#5|]][[Dan 9#6|]][[Dan 9#7|]][[Dan 9#8|]][[Dan 9#9|]][[Dan 9#10|]][[Dan 9#11|]][[Dan 9#12|]][[Dan 9#13|]][[Dan 9#14|]][[Dan 9#15|]][[Dan 9#16|]][[Dan 9#17|]][[Dan 9#18|]][[Dan 9#19|]]
 - **ONE:** Daniel is a man of the word
 - Chronologically, Belshazzar's feast took place right before this chapter
