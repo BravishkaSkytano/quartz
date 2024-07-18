@@ -1,6 +1,6 @@
 <%"---"%>
 id: <% tp.date.now("YYYYMMDDHHmm") %>
-title: <% tp.date.now("YYYY [Week] WW") %>
+title: <% tp.date.now("[Week] WW of YYYY") %>
 obsidianUIMode: preview
 tags:
 - 📥/🌲 
@@ -10,9 +10,10 @@ tags:
 
 ## Goals
 
-![[<% tp.date.now("YYYY-[Q]Q") %>#^goals-link]]
+> [!milestone] Goals for this Quarter
+> ![[<% tp.date.now("YYYY-[Q]Q") %>#^goals-link]]
 
-- [ ] 
+- 
 
 ^goals-link
 
@@ -53,3 +54,7 @@ tags:
 	![[<% tp.date.weekday("YYYY-MM-DD", 6) %>#^work-link]] 
 
 ^work-link
+
+```meta-bind
+INPUT[list(title(Wins This Week)):list]
+```

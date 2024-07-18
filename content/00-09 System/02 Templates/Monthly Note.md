@@ -1,6 +1,6 @@
 <%"---"%>
 id: <% tp.date.now("YYYYMMDDHHmm") %>
-title: <% tp.date.now("YYYY MMMM") %>
+title: <% tp.date.now("MMMM YYYY") %>
 obsidianUIMode: preview
 banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
 tags:
@@ -11,35 +11,36 @@ tags:
 
 ## Goals
 
-![[<% tp.date.now("YYYY-[Q]Q") %>#^goals-link]]
+> [!milestone] Goals for this Quarter
+> ![[<% tp.date.now("YYYY-[Q]Q") %>#^goals-link]]
 
 ## Memos
 
 - [[<%tp.date.now("YYYY-[W]ww")%>|Week 1]]
-	[[<%tp.date.now("YYYY-[W]ww")%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww")%>#^memo-link]]
 - [[<%tp.date.now("YYYY-[W]ww", 7)%>|Week 2]]
-	[[<%tp.date.now("YYYY-[W]ww", 7)%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 7)%>#^memo-link]]
 - [[<%tp.date.now("YYYY-[W]ww", 14)%>|Week 3]]
-	[[<%tp.date.now("YYYY-[W]ww", 14)%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 14)%>#^memo-link]]
 - [[<%tp.date.now("YYYY-[W]ww", 21)%>|Week 4]]
-	[[<%tp.date.now("YYYY-[W]ww", 21)%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 21)%>#^memo-link]]
 - [[<%tp.date.now("YYYY-[W]ww", 28)%>|Week 5]]
-	[[<%tp.date.now("YYYY-[W]ww", 28)%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 28)%>#^memo-link]]
 
 ^memo-link
 
 ## Work Log
 
 - [[<%tp.date.now("YYYY-[W]ww")%>|Week 1]]
-	[[<%tp.date.now("YYYY-[W]ww")%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww")%>#^work-link]]
 - [[<%tp.date.now("YYYY-[W]ww", 7)%>|Week 2]]
-	[[<%tp.date.now("YYYY-[W]ww", 7)%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 7)%>#^work-link]]
 - [[<%tp.date.now("YYYY-[W]ww", 14)%>|Week 3]]
-	[[<%tp.date.now("YYYY-[W]ww", 14)%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 14)%>#^work-link]]
 - [[<%tp.date.now("YYYY-[W]ww", 21)%>|Week 4]]
-	[[<%tp.date.now("YYYY-[W]ww", 21)%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 21)%>#^work-link]]
 - [[<%tp.date.now("YYYY-[W]ww", 28)%>|Week 5]]
-	[[<%tp.date.now("YYYY-[W]ww", 28)%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 28)%>#^work-link]]
 
 ^work-link
 

@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses:
   - cards
+draft: true
 ---
 ## Yearly
 

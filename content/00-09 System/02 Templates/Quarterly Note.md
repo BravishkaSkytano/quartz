@@ -1,6 +1,6 @@
 <%"---"%>
 id: <% tp.date.now("YYYYMMDDHHmm") %>
-title: <% tp.date.now("YYYY [Quarter] Q") %>
+title: <% tp.date.now("[Quarter] Q of YYYY") %>
 obsidianUIMode: preview
 tags:
 - 📥/🌲 
@@ -8,7 +8,8 @@ tags:
 
 ## Goals
 
-![[<% tp.date.now("YYYY") %>#^goals-link]]
+> [!milestone] Goals for this Year
+> ![[<% tp.date.now("YYYY") %>#^goals-link]]
 
 - Goal 1: *Goal 1*
 - Goal 2: *Goal 2*

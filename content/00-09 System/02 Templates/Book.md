@@ -25,7 +25,7 @@ isbn: {{isbn10}} {{isbn13}}
 ![cover|150]({{coverUrl}})
 
 
-Author(s): [[{{author}}]]
+Author(s): <%=book.authors.map(author => `[[${author}]]`).join(', ')%>
 Series: 
 
 ## Description
