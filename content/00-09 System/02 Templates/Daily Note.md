@@ -4,25 +4,13 @@ title: <% tp.date.now("dddd, MMMM Do, YYYY") %>
 banner_icon: 🗝️
 <%"---"%>
 
-[[<% tp.date.yesterday("YYYY.MM.DD") %>|⬅ <% tp.date.yesterday("MMMM Do") %>]] | [[<% tp.date.tomorrow("YYYY.MM.DD") %>| <% tp.date.tomorrow("MMMM Do") %> ➡]]
+[[<% tp.date.yesterday("YYYY-MM-DD") %>|⬅ <% tp.date.yesterday("MMMM Do") %>]] | [[<% tp.date.now("YYYY-[W]ww") %>|Week <% tp.date.now("ww") %>]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>| <% tp.date.tomorrow("MMMM Do") %> ➡]]
 
 <% tp.web.daily_quote() %>
 
 ```meta-bind
 INPUT[progressBar(title(Proudness), minValue(0), maxValue(10)):proudness]
 ```
-
-## Memos
-
-- 
-
-^memo-link
-
-## Work Log
-
-- 
-
-^work-link
 
 ## Trackers
 
@@ -34,13 +22,17 @@ INPUT[progressBar(title(Proudness), minValue(0), maxValue(10)):proudness]
 
 ## Tasks
 
-### Not Done Yet
-
 <%"```tasks"%>
 happens <% tp.date.now("YYYY-MM-DD") %>
 short mode
 <%"```"%>
 
-### New Additions
+## Memos
 
 - 
+
+## Work Log
+
+- 
+
+### Pomodoros

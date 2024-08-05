@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "ungraphophobic.netlify.app",
-    ignorePatterns: ["**/private", "00-09 System", ".obsidian"],
+    ignorePatterns: ["**/private", "00-09 System", ".obsidian", "50-59 Sources/51 Bible"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

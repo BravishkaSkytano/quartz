@@ -17,32 +17,28 @@ tags:
 ## Memos
 
 - [[<%tp.date.now("YYYY-[W]ww")%>|Week 1]]
-	![[<%tp.date.now("YYYY-[W]ww")%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww")%>#Memos]]
 - [[<%tp.date.now("YYYY-[W]ww", 7)%>|Week 2]]
-	![[<%tp.date.now("YYYY-[W]ww", 7)%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 7)%>#Memos]]
 - [[<%tp.date.now("YYYY-[W]ww", 14)%>|Week 3]]
-	![[<%tp.date.now("YYYY-[W]ww", 14)%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 14)%>#Memos]]
 - [[<%tp.date.now("YYYY-[W]ww", 21)%>|Week 4]]
-	![[<%tp.date.now("YYYY-[W]ww", 21)%>#^memo-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 21)%>#Memos]]
 - [[<%tp.date.now("YYYY-[W]ww", 28)%>|Week 5]]
-	![[<%tp.date.now("YYYY-[W]ww", 28)%>#^memo-link]]
-
-^memo-link
+	![[<%tp.date.now("YYYY-[W]ww", 28)%>#Memos]]
 
 ## Work Log
 
 - [[<%tp.date.now("YYYY-[W]ww")%>|Week 1]]
-	![[<%tp.date.now("YYYY-[W]ww")%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww")%>#Work Log]]
 - [[<%tp.date.now("YYYY-[W]ww", 7)%>|Week 2]]
-	![[<%tp.date.now("YYYY-[W]ww", 7)%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 7)%>#Work Log]]
 - [[<%tp.date.now("YYYY-[W]ww", 14)%>|Week 3]]
-	![[<%tp.date.now("YYYY-[W]ww", 14)%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 14)%>#Work Log]]
 - [[<%tp.date.now("YYYY-[W]ww", 21)%>|Week 4]]
-	![[<%tp.date.now("YYYY-[W]ww", 21)%>#^work-link]]
+	![[<%tp.date.now("YYYY-[W]ww", 21)%>#Work Log]]
 - [[<%tp.date.now("YYYY-[W]ww", 28)%>|Week 5]]
-	![[<%tp.date.now("YYYY-[W]ww", 28)%>#^work-link]]
-
-^work-link
+	![[<%tp.date.now("YYYY-[W]ww", 28)%>#Work Log]]
 
 ## Books Read This Month
 

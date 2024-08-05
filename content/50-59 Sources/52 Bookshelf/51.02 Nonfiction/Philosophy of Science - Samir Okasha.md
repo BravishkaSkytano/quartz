@@ -37,11 +37,11 @@ modified: 2024-03-27
 
 [[Okasha_Philosophy_of_Science.pdf#page=13&selection=236,11,279,1|Okasha_Philosophy_of_Science, page 13]]
 
-> [[202403031607]], an influential 20th-century philosopher of science, thought that the fundamental feature of a scientific theory is that it should be falsifiable. To call a theory falsifiable is not to say that it is false. ~ Rather, it means that the theory makes some definite predictions that are capable of being tested against experience. If these predictions turn out to be wrong, then the theory has been falsified, or disproved. So a falsifiable theory is one that we might discover to be false - it is not compatible with every possible course of experience. Popper thought that some supposedly scientific theories did not satisfy this condition and thus did not deserve to be called science at all; rather they were merely pseudo-science.
+> [[202403031607|Karl Popper]], an influential 20th-century philosopher of science, thought that the fundamental feature of a scientific theory is that it should be falsifiable. To call a theory falsifiable is not to say that it is false. ~ Rather, it means that the theory makes some definite predictions that are capable of being tested against experience. If these predictions turn out to be wrong, then the theory has been falsified, or disproved. So a falsifiable theory is one that we might discover to be false - it is not compatible with every possible course of experience. Popper thought that some supposedly scientific theories did not satisfy this condition and thus did not deserve to be called science at all; rather they were merely pseudo-science.
 
 [[Okasha_Philosophy_of_Science.pdf#page=13&selection=482,1,618,32|Okasha_Philosophy_of_Science, page 13]]
 
-[[202403031607]] thought a scientific theory is one that is falsifiable—makes definite predictions that can be tested. Unfalsifiable theories are pseudoscience.
+[[202403031607|Karl Popper]] thought a scientific theory is one that is falsifiable—makes definite predictions that can be tested. Unfalsifiable theories are pseudoscience.
 
 > The principal task of philosophy of science is to analyse the methods of inquiry in the various sciences.
 > — page 12
