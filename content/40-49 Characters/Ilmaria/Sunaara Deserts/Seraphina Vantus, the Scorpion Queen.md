@@ -5,7 +5,7 @@ date: 2024-06-21
 description:
 tags: [fantasy, queen, scorpion]
 ---
-![[Seraphina-Vantus.jpg]]
+![[Seraphina_Vantus.jpg]]
 
 ## Traits
 

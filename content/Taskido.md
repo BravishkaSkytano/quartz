@@ -1,6 +1,8 @@
 ---
 obsidianUIMode: preview
 draft: true
+cssclasses:
+  - wide
 ---
 ```dataviewjs
 await dv.view("00-09 System/04 Scripts/taskido", {

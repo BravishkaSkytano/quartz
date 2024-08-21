@@ -6,7 +6,7 @@ date: 2024-06-21
 modified: 2024-06-25
 tags: 
 ---
-![[Arion Thorne.jpg]]
+![[Arion_Thorne.jpg]]
 
 #### Backstory
 

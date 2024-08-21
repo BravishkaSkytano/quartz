@@ -35,7 +35,7 @@ modified: 2024-02-28T15:57:02-05:00
 - verses 5 - 20, 150 years of hostility between the Northern Seleucid Dynasty in Syria and the Southern Ptolemy Dynasty in Egypt
 - [[Dan 11#6|v6]]: Ptolemy II Philadelphus, the Philiphater, gave his daughter Berenice to Antiochus II Theos as part of a peace treaty. Antiochus divorced his first wife Laodice, to marry Berenice. Shortly afterwards, Ptolemy II dies and Antiochus decides to divorce Berenice and re-marry Laodice. Before the divorce could be finalized, Laodice comes and kills Berenice. Antiochus II Theos re-marries Laodice and shortly after she poisons him. **Fact check this, the story is a bit different on other sources. Other sources say Berenice is killed by Laodice after Antiochus II died and she tried to get the throne for her infant son.**
 - vv. 7-9: Berenice's brother Ptolemy III avenge's her death by killing Laodice
-- vv. 21 - 35 brings us to [[202402141606]], the demon possessed ruler who persecuted the Jews
+- vv. 21 - 35 brings us to [[202402141606|Antiochus Epiphanes]], the demon possessed ruler who persecuted the Jews
 - many scholars think the Antichrist will be from Jewish decent
 ## [[Daniel 11#36|Daniel 11:36]][[Daniel 11#37|]][[Daniel 11#38|]][[Daniel 11#39|]][[Daniel 11#40|]][[Daniel 11#41|]][[Daniel 11#42|]][[Daniel 11#43|]][[Daniel 11#44|]][[Daniel 11#45|-45]]
 - Iran North Africa, Russia, and Turkey will invade Israel. Then God will intervene and destroy all but 1/10 of those armies

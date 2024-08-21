@@ -5,7 +5,7 @@ date: 2024-06-21
 description:
 tags: [fantasy, dragon]
 ---
-![[Elara-Drakenwood.jpg]]
+![[Elara_Drakenwood.jpg]]
 
 ## Traits
 
