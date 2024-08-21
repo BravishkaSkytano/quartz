@@ -28,20 +28,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(
-    	Component.RecentNotes({
-        	title: "Recent Notes",
-            limit: 3,
-            //filter: (f) => f.slug!.startsWith("thoughts/"),
-            //linkToMore: "thoughts/" as SimpleSlug,
-        }),
-    ),
+    //Component.DesktopOnly(
+    //Component.RecentNotes({
+    //title: "Recent Notes",
+    //limit: 3,
+    //filter: (f) => f.slug!.startsWith("thoughts/"),
+    //linkToMore: "thoughts/" as SimpleSlug,
+    //}),
+    //),
+    Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [
-    Component.Graph(),
-    //Component.DesktopOnly(Component.Explorer()),
-    Component.Backlinks(),
-  ],
+  right: [Component.Graph(), Component.Backlinks()],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -54,5 +51,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [],
+  right: [Component.Graph(), Component.Backlinks()],
 }
