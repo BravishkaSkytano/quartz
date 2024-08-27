@@ -1,0 +1,1 @@
+- [ ] Add your assignments for the week 📅 2024-08-31 🔁 every week on Saturday 🔺 

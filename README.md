@@ -1,13 +1,10 @@
-# Quartz v4
+# My Blog, managed with Obsidian and Quartz
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12a37b42-86e2-4eef-bdeb-df1ccbc42d2b/deploy-status)](https://app.netlify.com/sites/ungraphophobic/deploys)
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Interested in trying out [Obsidian](https://obsidian.md/)? It's a great tool, and I doubt you will regret it. On the other hand... there are a *lot* of customization options that can lead to hours of procrastinating with the excuse of "productivity." 😅
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Already use Obsidian and interested in hosting your notes online for FREE? Check out [Quartz](https://quartz.jzhao.xyz/)! There's some customization, but not that much. Oh, and it doesn't support Dataview, so if you use that in your notes you should wrap the codeblocks in comments so they don't render on the site (they will render just fine in Obsidian though 😉).
 
 ## Sponsors
 

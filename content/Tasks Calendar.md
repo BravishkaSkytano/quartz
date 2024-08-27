@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-  - wide
+  - wide-page
 draft: true
 ---
 ```dataviewjs
