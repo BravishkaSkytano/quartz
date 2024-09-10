@@ -9,16 +9,16 @@ tags: [fantasy, dragon]
 
 ## Traits
 
-| Traits           | Sub-traits                |
-| ---------------- | ------------------------- |
-| Archetype        | Queen                     |
-| Continent        | [[Eldoria Forests]]       |
-| Species          | [[Elves]]                 |
-| Kingdom          | Drakari                   |
-| Eye color        | Green                     |
-| Head accessories | Crown                     |
-| Hair color       | Pale blonde               |
-| Skills           | Dragon rider, arcane mage |
+| Traits      | Sub-traits                |
+| ----------- | ------------------------- |
+| Archetype   | Queen                     |
+| Continent   | [[Eldoria Forests]]       |
+| Species     | [[Elves]]                 |
+| Kingdom     | Drakari                   |
+| Eye color   | Green                     |
+| Accessories | Crown, dragon             |
+| Hair color  | Pale blonde               |
+| Skills      | Dragon rider, arcane mage |
 
 ## Origins
 

@@ -12,7 +12,7 @@ tags: [world]
 
 Ilmaria is divided into several distinct regions, each with its own unique landscape and climate:
 
-### [[Crystaline Peaks]]
+### [[Crystalline Peaks]]
 
 > Dominated by towering mountains made of translucent crystals, this region glows with an otherworldly light. Home to the reclusive [[Gemfolk]], these peaks are rich in magical minerals that power much of Ilmaria’s arcane technology.
 
@@ -38,7 +38,7 @@ Ilmaria is divided into several distinct regions, each with its own unique lands
 
 ### [[Sunaara Deserts]]
 
-> The Desert of Sunaara, known as the Golden Expanse, is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oases. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.
+> The Desert of Sunaara, known as the Golden Expanse, is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.
 
 ## Societies and Cultures
 
@@ -80,7 +80,7 @@ Ilmaria is a land of endless adventure and mystery, where magic weaves through e
 
 Here is a simple map of Ilmaria, illustrating the major regions:
 
-![[Ilmaria, basic map.png]]
+![[Ilmaria-basic-map.png]]
 
 - **Crystaline Peaks**: Located in the northwest, marked in light blue.
 - **Eldoria Forests**: Situated in the north-central part, marked in green.

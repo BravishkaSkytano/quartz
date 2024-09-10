@@ -1,1 +1,3 @@
-- [ ] Add your assignments for the week 📅 2024-08-31 🔁 every week on Saturday 🔺 
+- [ ] Add your assignments for the week 🔺 🔁 every week on Saturday 📅 2024-09-14
+- [x] Add your assignments for the week 🔺 🔁 every week on Saturday 📅 2024-09-07 ✅ 2024-09-09
+- [x] Add your assignments for the week 🔺 🔁 every week on Saturday 📅 2024-08-31 ✅ 2024-09-06
