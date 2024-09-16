@@ -12,7 +12,7 @@ tags: [fantasy, queen, scorpion]
 | Traits      | Sub-traits                       |
 | ----------- | -------------------------------- |
 | Archetype   | Guardian, Queen                  |
-| Continent   | [[Sunaara Deserts]]              |
+| Continent   | [[202406220229|Sunaara Deserts]]              |
 | Species     | [[Humans\|Human]]                |
 | Eyes        | Brown                            |
 | Accessories | Scorpion armor, war paint, crown |

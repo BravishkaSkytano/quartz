@@ -1,7 +1,7 @@
 ---
 start: 2023-09-04
 end: 2025-05-15
-modified: 2024-07-09
+modified: 2024-09-13
 aliases:
   - The Virtues Campus
   - Virtues
@@ -22,11 +22,3 @@ tags:
 - Spring break = [[2024-03-21|March 21, 2024]] – [[2024-04-02|April 2, 2024]]
 - End of the year = [[2024-05-15|May 15, 2024]]
 - Summer break = [[2024-05-16|May 16, 2024]] – [[2024-09-09|September 9, 2024]]
-
-## Classes
-
-```dataview
-LIST
-FROM "Spaces/School/Virtues" AND #class
-WHERE endDate >= date(today)
-```

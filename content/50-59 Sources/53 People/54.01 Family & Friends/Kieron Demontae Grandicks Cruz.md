@@ -4,25 +4,29 @@ up:
 same: 
 date: 2024-01-16
 tags: 
-modified: 2024-09-04
+modified: 2024-09-10
 aliases:
   - Kieron
 ---
-- We met on
+- We met on [[2023-12-09|December 9]] (`= date(today) - date(2023-12-09)` ago)
 - **Favorite color(s):** black, red, gold.
 - He likes the trident symbol because it stands for leadership and power.
-- Let's make a hat for him and put a trident on it. He says he would love it and that would be the best gift ever.
-- Likes Venus fly traps
+- ~~Let's make a hat for him and put a trident on it. He says he would love it and that would be the best gift ever.~~
 - Good listener
-- Doesn’t like surprises
-- Watermelon
+- Loves
+	- Watermelon
+	- Rib-eye steak
+	- Venus fly traps
 - Desserts
 	- Caramel
 	- Pie: sweet potato, pumpkin
 	- Ice cream: cookies & cream
 	- Pudding: chocolate, vanilla
 	- Doesn't like cake, only ice cream cake
-- Rib-eye steak
+- Allergies
+	- Nuts
+	- Apples
+	- Surprises from me 🤣
 
 ## How Does God Speak Through Him?
 

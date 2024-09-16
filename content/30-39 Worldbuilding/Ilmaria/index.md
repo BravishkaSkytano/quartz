@@ -14,29 +14,29 @@ Ilmaria is divided into several distinct regions, each with its own unique lands
 
 ### [[Crystalline Peaks]]
 
-> Dominated by towering mountains made of translucent crystals, this region glows with an otherworldly light. Home to the reclusive [[Gemfolk]], these peaks are rich in magical minerals that power much of Ilmaria’s arcane technology.
+> Dominated by towering mountains made of translucent crystals, this region glows with an otherworldly light. Home to the reclusive Gemfolk, these peaks are rich in magical minerals that power much of Ilmaria’s arcane technology.
 
 ### [[Eldoria Forests]]
 
-> Vast, ancient woodlands filled with towering trees, bioluminescent flora, and mystical creatures. This region is the heartland of the [[Elves]], who live in harmony with nature and guard the ancient secrets of the forest.
+> Vast, ancient woodlands filled with towering trees, bioluminescent flora, and mystical creatures. This region is the heartland of the Elves, who live in harmony with nature and guard the ancient secrets of the forest.
 
 ### [[Shimmering Isles]]
 
-> A collection of floating islands above the Coral Sea, connected by magical bridges of light. The [[Aerians]], winged humanoids, inhabit these isles and are known for their mastery of aerial combat and wind magic.
+> A collection of floating islands above the Coral Sea, connected by magical bridges of light. The Aerians, winged humanoids, inhabit these isles and are known for their mastery of aerial combat and wind magic.
 
 ### [[Sunken Abyss]]
 
-> An underwater realm with sprawling coral cities and bioluminescent fauna. The [[Merfolk]] rule this region, possessing great knowledge of water magic and ancient, submerged relics.
+> An underwater realm with sprawling coral cities and bioluminescent fauna. The cities of the Merfolk are marvels of bioluminescent architecture. They have an intimate knowledge of the ocean's depths and possess powerful water magic.
 
 ### [[Ashen Wastes]]
 
-> A desolate, volcanic region marked by blackened earth and constant ash storms. This harsh land is home to the [[Fireborn]], a race of beings who thrive in the intense heat and forge powerful weapons from the lava flows.
+> A desolate, volcanic region marked by blackened earth and constant ash storms. This harsh land is home to the Fireborn, a race of beings who thrive in the intense heat and forge powerful weapons from the lava flows.
 
 ### [[Verdant Plains]]
 
-> Rolling grasslands and fertile farmlands where the [[Humans|Human]] kingdoms flourish. Known for their ingenuity and adaptability, humans here build grand cities and maintain a delicate balance with the surrounding nature.
+> Rolling grasslands and fertile farmlands where the Human kingdoms flourish. Known for their ingenuity and adaptability, humans here build grand cities and maintain a delicate balance with the surrounding nature.
 
-### [[Sunaara Deserts]]
+### [[202406220229|Sunaara Deserts]]
 
 > The Desert of Sunaara, known as the Golden Expanse, is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.
 
@@ -48,7 +48,7 @@ Ilmaria is divided into several distinct regions, each with its own unique lands
 
 - **Aerians of the Shimmering Isles**: With their majestic wings and affinity for the sky, Aerians are masterful fliers and skilled in wind magic. Their culture values freedom and exploration, and they often serve as messengers and scouts.
 
-- **Merfolk of the Sunken Abyss**: The underwater cities of the Merfolk are marvels of bioluminescent architecture. They have an intimate knowledge of the ocean's depths and possess powerful water magic.
+- **Merfolk of the Sunken Abyss**: The Merfolk are experts in bioluminescent architecture. They have an intimate knowledge of the ocean's depths and possess powerful water magic. 
 
 - **Fireborn of the Ashen Wastes**: These hardy people are resistant to extreme heat and possess the ability to control fire. Their society is built around the worship of volcanic gods and the forging of legendary weapons and armor.
 
@@ -91,3 +91,9 @@ Here is a simple map of Ilmaria, illustrating the major regions:
 - **Desert of Sunaara**: Found in the southwest, marked in beige.
 
 Each region is marked with a colored dot and labeled accordingly. This map provides a basic geographical overview of Ilmaria.
+
+A simple map of Ilmaria, illustrating the major regions: the Crystalline Peaks, located in the northwest, dominated by towering mountains made of translucent crystals and glowing with an otherworldly light; the Eldoria Forests, situated in the north-central part, with vast, ancient woodlands filled with towering trees, bioluminescent flora, and mystical creatures; the Shimmering Isles, found in the northeast, containing a collection of floating islands above the Coral Sea, connected by magical bridges of light; the Sunken Abyss, positioned in the southeast, an underwater realm with sprawling coral cities and bioluminescent fauna; the Ashen Wastes, located in the south-central part, a desolate, volcanic region marked by blackened earth and constant ash storms; the Verdant Plains, centrally located, characterized by rolling grasslands and fertile farmlands where the Human kingdoms flourish, and; the Desert of Sunaara, found in the southwest, a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis.
+
+A geographical map of Ilmaria, illustrating the major regions: Crystalline Peaks, located in the northwest, marked by mountains of translucent crystals; Eldoria Forests, situated in the north-central part, filled with ancient woodlands; Shimmering Isles, found in the northeast above the Coral Sea, covered by a collection of floating islands; Sunken Abyss, positioned underwater in the southeast, containing an underwater realm with coral cities; Ashen Wastes, located in the south-central part, characterized by desolate volcanoes and blackened earth; Verdant Plains, centrally located, marked by rolling grasslands and fertile farmlands; Desert of Sunaara, found in the southwest, full of rolling dunes and hidden oasis.
+
+A geographical map of Ilmaria. Crystaline Peaks in the northwest, dominated by towering mountains made of translucent crystals and glowing with an otherworldly light. Eldoria Forests, north-central, a vast, ancient woodlands filled with towering trees, bioluminescent flora, and mystical creatures. Northeast, the Shimmering Islands rise above the crystal-clear Coral Sea, connected by magical bridges of light, with oceanic mists. Southeast, Sunken Abyss, an underwater realm with sprawling coral cities, bioluminescent fauna, and vast oceanic chasms. South-central, volcanic Ashen Wastes, marked by blackened earth and constant ash storms. Verdant Plains, central, rolling grasslands and fertile farmlands. Southwest, the Desert of Sunaara, arid dunes, oases, and rose-tinted sandstone formations.

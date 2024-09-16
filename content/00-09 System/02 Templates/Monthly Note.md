@@ -39,12 +39,3 @@ tags:
 	![[<%tp.date.now("YYYY-[W]ww", 21)%>#Work Log]]
 - [[<%tp.date.now("YYYY-[W]ww", 28)%>|Week 5]]
 	![[<%tp.date.now("YYYY-[W]ww", 28)%>#Work Log]]
-
-## Books Read This Month
-
-<%"```dataview"%>
-LIST WITHOUT ID
-title + " (" + author + ")"
-FROM "60-69 Bookshelf"
-WHERE contains(string(readdates.finished), "<% tp.date.now("YYYY-MM") %>")
-<%"```"%>
