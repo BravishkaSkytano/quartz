@@ -1,17 +1,18 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: YODG
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: null
   locale: en-US
-  baseUrl: bravishkaskytano.github.io/quartz
+  baseUrl: yodg.netlify.app
   ignorePatterns:
     - private
     - templates
     - .obsidian
+    - README.md
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -110,10 +111,15 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: googleFonts
+      body: Merienda
+      header: Cinzel Decorative
+      code: JetBrains Mono
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: shiba-inu
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -230,8 +236,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/BravishkaSkytano/quartz
+        #Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
       priority: 50
@@ -267,7 +273,7 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
