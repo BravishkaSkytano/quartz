@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: YODG
-  pageTitleSuffix: ""
+  pageTitle: Tended Mind
+  pageTitleSuffix: " ~ Tended Mind"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: null
   locale: en-US
-  baseUrl: yodg.netlify.app
+  baseUrl: tended-mind.netlify.app
   ignorePatterns:
     - private
     - templates
@@ -114,7 +114,7 @@ plugins:
     options:
       fontOrigin: googleFonts
       body: Merienda
-      header: Cinzel Decorative
+      header: Henny Penny
       code: JetBrains Mono
   - source: "@quartz-themes/core"
     enabled: true
@@ -238,6 +238,7 @@ plugins:
       links:
         GitHub: https://github.com/BravishkaSkytano/quartz
         #Discord Community: https://discord.gg/cRFFHYye7t
+        Johnny.Decimal: https://johnnydecimal.com
     layout:
       position: footer
       priority: 50
